@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    75.116484, 
+                    15.350036
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "New Bus Station, Gokul Road, Hubli, Karnataka, India", 
+                "CAPTION": "Hubli New Bus Station", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Dharwad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/15_350036_75_116484", 
+                "ID": "15_350036_75_116484", 
+                "IMG": "http://openbangalore.org/postbox/img/15_350036_75_116484.jpg", 
+                "PINCODE": "580030", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin580030, posybox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.116076, 
+                    15.349722
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "New Bus Station, Gokul Road, Hubli, Karnataka, India", 
+                "CAPTION": "Hubli New Bus Station TMO", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Dharwad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/15_349722_75_116076", 
+                "ID": "15_349722_75_116076", 
+                "IMG": "http://openbangalore.org/postbox/img/15_349722_75_116076.jpg", 
+                "PINCODE": "580030", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin580030, postoffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.58383298, 
+                    12.92160467
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "38th Cross Rd, 5th Block, Jayanagar, Bangalore, Karnataka, India", 
+                "CAPTION": "Jayanagar 4th block on 9main & 38 cross.", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/342588717745125089_31979172", 
+                "ID": "342588717745125089_31979172", 
+                "IMG": "http://distilleryimage5.s3.amazonaws.com/7b7e2e8a420411e2a7ab22000a1f97eb_7.jpg", 
+                "PINCODE": "560041", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560041"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

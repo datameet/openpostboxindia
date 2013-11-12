@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.22616564, 
+                    10.526664468
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "east fort junction, RC Bishop House Road, Thrissur, Kerala 680005, India", 
+                "CAPTION": "Near Bishops house", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/417951928748684385_31979172", 
+                "ID": "417951928748684385_31979172", 
+                "IMG": "http://distilleryimage9.s3.amazonaws.com/f9b4024693b911e2aaa822000a1fb0dd_7.jpg", 
+                "PINCODE": "680005", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680005"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

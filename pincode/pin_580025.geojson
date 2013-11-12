@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    75.139209, 
+                    15.349724
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kamaripeth, Hubli, Karnataka, India", 
+                "CAPTION": "Opposite to Mahalakshmi Temple", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Dharwad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/15_349724_75_139209", 
+                "ID": "15_349724_75_139209", 
+                "IMG": "http://openbangalore.org/postbox/img/15_349724_75_139209.jpg", 
+                "PINCODE": "580025", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin580025, postbox"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

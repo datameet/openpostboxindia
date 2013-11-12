@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.58197668, 
+                    13.03314812
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "4th Cross Rd, Raj Mahal Vilas 2nd Stage, Bangalore, Karnataka, India", 
+                "CAPTION": "Inside Hebbal vet Hospital.", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/298344114167035489_31979172", 
+                "ID": "298344114167035489_31979172", 
+                "IMG": "http://distilleryimage1.s3.amazonaws.com/234e28e6120c11e289dc22000a1d039d_7.jpg", 
+                "PINCODE": "560024", 
+                "STATE": "Karnataka", 
+                "TAGS": "560024, postbox, pin560024, openbangalore, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

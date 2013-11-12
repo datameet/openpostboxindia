@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.5829831, 
+                    13.0084537
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "18th Cross Road, Sadashiva Nagar, Armane Nagar, Bangalore, Karnataka 560080, India", 
+                "CAPTION": "Sadhashiva Nagar", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/473605684785656972_31979172", 
+                "ID": "473605684785656972_31979172", 
+                "IMG": "http://distilleryimage8.s3.amazonaws.com/fee8d866d01011e2ab4c22000a1faffd_7.jpg", 
+                "PINCODE": "560080", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin560080, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

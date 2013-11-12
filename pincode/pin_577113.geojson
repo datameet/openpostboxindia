@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    75.590572, 
+                    13.1290624
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "National Highway 234, Karnataka 577132, India", 
+                "CAPTION": "Horatti near mudigere #openpostboxindia #pin577113", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/564897350047598026_582942400", 
+                "ID": "564897350047598026_582942400", 
+                "IMG": "http://distilleryimage10.s3.amazonaws.com/85de8336330b11e39d7522000aaa07cd_7.jpg", 
+                "PINCODE": "577113", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin577113, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.56775645, 
+                    13.1383377
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "National Highway 234, Karnataka, India", 
+                "CAPTION": "Baghasalgodu #openpostboxindia #pin577113", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/564903590383420958_582942400", 
+                "ID": "564903590383420958_582942400", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/4145ae32330d11e3bd9b22000aa82186_7.jpg", 
+                "PINCODE": "577113", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin577113, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.5521427, 
+                    13.1360285
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "National Highway 234, BaNakal, Karnataka 577122, India", 
+                "CAPTION": "Banakal #openpostboxindia #pin577113", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/564907522543421023_582942400", 
+                "ID": "564907522543421023_582942400", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/58aa8f6a330e11e39f5422000ae9080d_7.jpg", 
+                "PINCODE": "577113", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin577113, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.5521428, 
+                    13.1360285
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "National Highway 234, BaNakal, Karnataka 577122, India", 
+                "CAPTION": "Km road banekal #openpostboxindia #pin577113", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/564909104207070838_582942400", 
+                "ID": "564909104207070838_582942400", 
+                "IMG": "http://distilleryimage10.s3.amazonaws.com/c90d26aa330e11e386ac22000aa801c9_7.jpg", 
+                "PINCODE": "577113", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin577113, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

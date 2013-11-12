@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    80.257560122, 
+                    13.039372889
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "T.T.K.Road, Natesan Colony, Mylapore, Chennai, Tamil Nadu 600018, India", 
+                "CAPTION": "Teynampet post office", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Chennai", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/436744023672173943_31979172", 
+                "ID": "436744023672173943_31979172", 
+                "IMG": "http://distilleryimage3.s3.amazonaws.com/d45b0cc8a81911e2bf9922000a1fbc1c_7.jpg", 
+                "PINCODE": "600018", 
+                "STATE": "Tamil Nadu", 
+                "TAGS": "pin600018, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

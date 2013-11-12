@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.23474402, 
+                    28.588770371
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Jawaharlal Nehru Stadium Marg, Lodi Colony, New Delhi, Delhi 110003, India", 
+                "CAPTION": "CGO post office", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "New Delhi", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/383759419445426033_31979172", 
+                "ID": "383759419445426033_31979172", 
+                "IMG": "http://distilleryimage5.s3.amazonaws.com/a5c9db6a6ea711e2b7d622000a1f968a_7.jpg", 
+                "PINCODE": "110003", 
+                "STATE": "Delhi", 
+                "TAGS": "pin110003, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

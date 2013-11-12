@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.88219, 
+                    12.275855
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "SH 33, Somanathapura, Karnataka, India", 
+                "CAPTION": "Somanathapura Temple", 
+                "CONTRIBUTOR": "staneja", 
+                "DISTRICT": "Mysore District", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/12_275855_76_882190_571120", 
+                "ID": "12_275855_76_882190_571120", 
+                "IMG": "http://openbangalore.org/postbox/img/12_275855_76_882190_571120.jpg", 
+                "PINCODE": "571120", 
+                "STATE": "Karnataka", 
+                "TAGS": "postbox, openpostboxindia, pin571120"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

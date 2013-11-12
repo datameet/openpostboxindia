@@ -1,0 +1,203 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.616066341, 
+                    13.000357476
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Mosque Road, Frazer Town, Bangalore, Karnataka 560005, India", 
+                "CAPTION": "Frazer town post office", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/423812895915193959_31979172", 
+                "ID": "423812895915193959_31979172", 
+                "IMG": "http://distilleryimage3.s3.amazonaws.com/b87359e29a1411e2b77322000a1f8db4_7.jpg", 
+                "PINCODE": "560005", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560005"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.623214438, 
+                    13.000701674
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Wheeler Road Extension, Balaji Layout, Cooke Town, Bangalore, Karnataka 560005, India", 
+                "CAPTION": "Opposite sbi atm", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/438970065644238264_31979172", 
+                "ID": "438970065644238264_31979172", 
+                "IMG": "http://distilleryimage0.s3.amazonaws.com/ae250380aa8311e2adc122000a1f9ace_7.jpg", 
+                "PINCODE": "560005", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560005"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.619512312, 
+                    13.00406949
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Davis Road, BL Rice Nagar, Richards Town, Bangalore, Karnataka 560084, India", 
+                "CAPTION": "Davis Road, Richards town", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/445604131831362763_31979172", 
+                "ID": "445604131831362763_31979172", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/00e75ab8b1b511e2a91a22000a9e089b_7.jpg", 
+                "PINCODE": "560005", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560005"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.615359539, 
+                    12.993444633
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "43, Wheeler Road, Cleveland Town, Frazer Town, Bangalore, Karnataka 560005, India", 
+                "CAPTION": "Wheelers road", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/464215373558921114_31979172", 
+                "ID": "464215373558921114_31979172", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/a92aaf9ac5e211e29d7122000a1f97c6_7.jpg", 
+                "PINCODE": "560005", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560005"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.621571063, 
+                    13.000820738
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Cline Road, Balaji Layout, Cooke Town, Bangalore, Karnataka 560005, India", 
+                "CAPTION": "Opposite to Ambedkar Dental college. #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/506420324624053885_31979172", 
+                "ID": "506420324624053885_31979172", 
+                "IMG": "http://distilleryimage1.s3.amazonaws.com/e34dff52f3a411e2ade822000a1fa7aa_7.jpg", 
+                "PINCODE": "560005", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560005"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.6231367, 
+                    13.0009961
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "High Street, Balaji Layout, Cooke Town, Bangalore, Karnataka 560005, India", 
+                "CAPTION": "Medico pastrol association", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/544564285670504388_31979172", 
+                "ID": "544564285670504388_31979172", 
+                "IMG": "http://distilleryimage0.s3.amazonaws.com/f6bdf86a1cff11e3985c22000a1f9ad3_7.jpg", 
+                "PINCODE": "560005", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560005"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.622967857, 
+                    13.003974815
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "203, Hutchins Road, BL Rice Nagar, Cooke Town, Bangalore, Karnataka 560084, India", 
+                "CAPTION": "#openpostbox", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/557599117147473808_582942400", 
+                "ID": "557599117147473808_582942400", 
+                "IMG": "http://distilleryimage4.s3.amazonaws.com/db3af1da2b2111e39ee622000aa80004_7.jpg", 
+                "PINCODE": "560005", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560005, openpostbox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.617866516, 
+                    13.001843452
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "47/2, Pottery Road, Lazar Layout, Cooke Town, Bangalore, Karnataka 560005, India", 
+                "CAPTION": "#openpostboxindia #pin560005 medico pastoral association pottery road", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/558287304647869831_582942400", 
+                "ID": "558287304647869831_582942400", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/dde574f42be011e382e022000a1fbc68_7.jpg", 
+                "PINCODE": "560005", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560005"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.621743, 
+                    12.9965787
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": null, 
+                "CAPTION": "Charles Campbell road, cox town #openpostboxindia #pin560005", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": null, 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/573846230885827946_582942400", 
+                "ID": "573846230885827946_582942400", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/5617cb4a3cbf11e388bf22000a9f13cb_8.jpg", 
+                "PINCODE": "560005", 
+                "STATE": null, 
+                "TAGS": "openpostboxindia, pin560005"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

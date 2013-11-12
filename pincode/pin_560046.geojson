@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.6046035, 
+                    12.9941658
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Millers Road, Jayamahal, Bangalore, Karnataka, India", 
+                "CAPTION": "Benson town post office  #pin560046", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/362795385170769581_31979172", 
+                "ID": "362795385170769581_31979172", 
+                "IMG": "http://distilleryimage5.s3.amazonaws.com/f58ef6d457ec11e2917a22000a9f1587_7.jpg", 
+                "PINCODE": "560046", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560046, postoffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.598696851, 
+                    12.993677463
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Cantonment Railway Station Road, Kaverappa Layout, Vasanth Nagar, Bangalore, Karnataka 560051, India", 
+                "CAPTION": "Inside Cantonment railway station", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/550963833959691276_31979172", 
+                "ID": "550963833959691276_31979172", 
+                "IMG": "http://distilleryimage0.s3.amazonaws.com/31ffd92e23f011e3920622000ae9085f_7.jpg", 
+                "PINCODE": "560046", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560046"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

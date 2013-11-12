@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    80.261828438, 
+                    13.045201171
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Dr Radha Krishnan Salai, CIT Colony, Royapettah, Chennai, Tamil Nadu 600004, India", 
+                "CAPTION": "In front of new woodlands hotel", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Chennai", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/437369363830486819_31979172", 
+                "ID": "437369363830486819_31979172", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/656d914ca8c711e295e122000a9e2965_7.jpg", 
+                "PINCODE": "600028", 
+                "STATE": "Tamil Nadu", 
+                "TAGS": "pin600028, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

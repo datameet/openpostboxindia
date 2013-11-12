@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.586813, 
+                    12.911812
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "21st Main Road, Phase 2, J P Nagar, Bangalore, Karnataka, India", 
+                "CAPTION": "JP Nagar Post Office", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/12_911812_77_586813", 
+                "ID": "12_911812_77_586813", 
+                "IMG": "http://openbangalore.org/postbox/img/12_911812_77_586813.jpg", 
+                "PINCODE": "560078", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin560078, postbox, postoffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.591179324, 
+                    12.910381814
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "1759, 9th Cross Road, Phase 2, J P Nagar, Bangalore, Karnataka 560078, India", 
+                "CAPTION": "17 main, JP Nagar", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/414233848910525954_31979172", 
+                "ID": "414233848910525954_31979172", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/003df63c8fb211e2b3af22000a1fb856_7.jpg", 
+                "PINCODE": "560078", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560078"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

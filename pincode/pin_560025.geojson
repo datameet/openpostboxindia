@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.60327279, 
+                    12.97276634
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Museum Rd, Bangalore, Karnataka, India", 
+                "CAPTION": "Opposite to St Joseph's school.  End of museum rd. ", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/312636283983837026_31979172", 
+                "ID": "312636283983837026_31979172", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/050b29ea218b11e2b128123138190f7f_7.jpg", 
+                "PINCODE": "560025", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560025, postoffice, postbox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.610473305, 
+                    12.970280528
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Magrath Road, Bangalore, Karnataka 560025, India", 
+                "CAPTION": "Near Garuda mall", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/392567042164733862_31979172", 
+                "ID": "392567042164733862_31979172", 
+                "IMG": "http://distilleryimage6.s3.amazonaws.com/4105a39e783411e2a7f322000a1f9a55_7.jpg", 
+                "PINCODE": "560025", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560025"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.6137888, 
+                    12.9682149
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "54, Richmond Road, Victoria Lay Out, Bangalore, Karnataka 560007, India", 
+                "CAPTION": "Outside hosmat hospital magrath road #openpostboxindia #pin560025", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bengaluru", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/569489442291942581_582942400", 
+                "ID": "569489442291942581_582942400", 
+                "IMG": "http://distilleryimage5.s3.amazonaws.com/15a5b846380611e3a1d722000aeb0de9_8.jpg", 
+                "PINCODE": "560025", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560025"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

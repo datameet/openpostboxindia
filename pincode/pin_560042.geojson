@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.618587, 
+                    12.985399
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "85, Annaswamy Mudaliar Road, Sivanchetti Gardens, Bangalore, Karnataka, India", 
+                "CAPTION": "Ulsoor Lake - Home Guards Gate", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/12_985399_77_618587", 
+                "ID": "12_985399_77_618587", 
+                "IMG": "http://openbangalore.org/postbox/img/12_985399_77_618587.jpg", 
+                "PINCODE": "560042", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin560042, postbox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.61249869, 
+                    12.98244395
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "St Johns Rd, Sivanchetti Gardens, Bangalore, Karnataka 560042, India", 
+                "CAPTION": "Sivanchetti Gardens Post Office.", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/299141832024078254_31979172", 
+                "ID": "299141832024078254_31979172", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/8c9586fe12e911e280ba22000a1e9f85_7.jpg", 
+                "PINCODE": "560042", 
+                "STATE": "Karnataka", 
+                "TAGS": "postbox, postoffice, openbangalore, pin560042, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.615562618, 
+                    12.985933259
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "St Johns Road, Hermit Colony, Sivanchetti Gardens, Bangalore, Karnataka 560042, India", 
+                "CAPTION": "Bus stop in front of Shoba Ivory", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/440519338487789057_31979172", 
+                "ID": "440519338487789057_31979172", 
+                "IMG": "http://distilleryimage5.s3.amazonaws.com/b09b9bd8ac3111e2a2f822000a1f97e4_7.jpg", 
+                "PINCODE": "560042", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560042"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.199827736, 
+                    28.566343682
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Ch Jhandu Singh Marg, Safdarjung Enclave, New Delhi, Delhi 110016, India", 
+                "CAPTION": "Safari Jung enclave", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Delhi (district)", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/383163698371442244_31979172", 
+                "ID": "383163698371442244_31979172", 
+                "IMG": "http://distilleryimage0.s3.amazonaws.com/4d421dc26e0211e29cc822000a1f96e3_7.jpg", 
+                "PINCODE": "110029", 
+                "STATE": "Delhi", 
+                "TAGS": "pin110029, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

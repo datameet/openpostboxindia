@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.1226473, 
+                    13.3321452
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "13th Cross Road, Siddalingaiahna Palya, Tumkur, Karnataka 572103, India", 
+                "CAPTION": "Govrlt Polytechnic. Tumkur", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Tumkur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/570819972201264795_31979172", 
+                "ID": "570819972201264795_31979172", 
+                "IMG": "http://distilleryimage3.s3.amazonaws.com/617c6d1a397711e3939222000a9f1385_8.jpg", 
+                "PINCODE": "572102", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin572102, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

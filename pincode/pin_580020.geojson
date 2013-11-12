@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    75.142408, 
+                    15.347692
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Coen Road, New Hubli, Hubli, Karnataka, India", 
+                "CAPTION": "Near Samyukta Karnataka", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Dharwad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/15_347692_75_142408", 
+                "ID": "15_347692_75_142408", 
+                "IMG": "http://openbangalore.org/postbox/img/15_347692_75_142408.jpg", 
+                "PINCODE": "580020", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin580020, postbox"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

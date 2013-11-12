@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.620698825, 
+                    12.954655905
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "139, Lower Agaram Road, Vivek Nagar, Bangalore, Karnataka 560047, India", 
+                "CAPTION": "Viveknagar post office", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/548352882580206982_31979172", 
+                "ID": "548352882580206982_31979172", 
+                "IMG": "http://distilleryimage10.s3.amazonaws.com/82c0131a211b11e3b2dc22000a9f14bd_7.jpg", 
+                "PINCODE": "560047", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560047"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

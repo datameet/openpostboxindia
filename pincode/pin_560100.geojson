@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.68012935, 
+                    12.83422174
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "National Highways 7, Electronics City, Bangalore, Karnataka, India", 
+                "CAPTION": "Near Sfs School.", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/309212000267876249_31979172", 
+                "ID": "309212000267876249_31979172", 
+                "IMG": "http://distilleryimage5.s3.amazonaws.com/9511d3781dd411e2818e22000a1fa52c_7.jpg", 
+                "PINCODE": "560100", 
+                "STATE": "Karnataka", 
+                "TAGS": "openindia, pin560100, postbox, openbangalore, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.67083049, 
+                    12.84674121
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "1st Main Rd, Electronics City Phase 1, Electronics City, Bangalore, Karnataka, India", 
+                "CAPTION": "Near Electronic city main entrance.", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/309215535780935603_31979172", 
+                "ID": "309215535780935603_31979172", 
+                "IMG": "http://distilleryimage11.s3.amazonaws.com/904a6e9e1dd511e28e1522000a1de747_7.jpg", 
+                "PINCODE": "560100", 
+                "STATE": "Karnataka", 
+                "TAGS": "openindia, pin560100, postbox, openbangalore, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.66297626, 
+                    12.84004131
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "2nd Cross Rd, Electronics City Phase 1, Electronics City, Bangalore, Karnataka, India", 
+                "CAPTION": "Electronics city Post Office. ", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/309220628211251160_31979172", 
+                "ID": "309220628211251160_31979172", 
+                "IMG": "http://distilleryimage0.s3.amazonaws.com/fa2074521dd611e2b95b22000a1fab39_7.jpg", 
+                "PINCODE": "560100", 
+                "STATE": "Karnataka", 
+                "TAGS": "openindia, pin560100, postbox, postoffice, openbangalore, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.68743852, 
+                    12.83611653
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Anantha Nagar Rd, Electronics City, Bangalore, Karnataka, India", 
+                "CAPTION": "Near Anantha Nagar park.", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/309292954286110240_31979172", 
+                "ID": "309292954286110240_31979172", 
+                "IMG": "http://distilleryimage4.s3.amazonaws.com/0d34b6ac1deb11e28e7522000a1c881f_7.jpg", 
+                "PINCODE": "560100", 
+                "STATE": "Karnataka", 
+                "TAGS": "openindia, pin560100, postbox, openbangalore, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

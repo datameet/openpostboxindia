@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.0889971, 
+                    12.9964425
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Bangalore - Mangalore Road, Hassan, Karnataka 573201, India", 
+                "CAPTION": "Apmc building, hassan #openpostboxindia #pin573201", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Hassan", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/566339895730472614_582942400", 
+                "ID": "566339895730472614_582942400", 
+                "IMG": "http://distilleryimage10.s3.amazonaws.com/e8e78b94349b11e3ad7e22000aeb0d0d_7.jpg", 
+                "PINCODE": "573201", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin573201"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

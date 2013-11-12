@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.56933986, 
+                    13.00722879
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "17th Cross Rd, Malleshwaram, Bangalore, Karnataka, India", 
+                "CAPTION": "Margosa Rd & 17th Cross.", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/312730881469003059_31979172", 
+                "ID": "312730881469003059_31979172", 
+                "IMG": "http://distilleryimage3.s3.amazonaws.com/46aa09ce21a511e28a5622000a1fbe35_7.jpg", 
+                "PINCODE": "560055", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560055, postbox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.56743704, 
+                    13.008650386
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "18th Cross Road, Malleshwaram, Bangalore, Karnataka 560055, India", 
+                "CAPTION": "At shashikiran apartments", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/430263909648250311_31979172", 
+                "ID": "430263909648250311_31979172", 
+                "IMG": "http://distilleryimage3.s3.amazonaws.com/3c9019c2a11311e29ad022000a1f9a79_7.jpg", 
+                "PINCODE": "560055", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560055"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

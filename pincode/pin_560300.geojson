@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.70980291, 
+                    13.20022964
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "BIAL Rd, Bengaluru International Airport (BLR), Karnataka, India", 
+                "CAPTION": "Bangalore International Airport", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Rural", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/343187520005158419_31979172", 
+                "ID": "343187520005158419_31979172", 
+                "IMG": "http://distilleryimage3.s3.amazonaws.com/aef391c842aa11e2b60722000a9f09f0_7.jpg", 
+                "PINCODE": "560300", 
+                "STATE": "Karnataka", 
+                "TAGS": "airport, openpostboxindia, postoffice, pin560300, postbox"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

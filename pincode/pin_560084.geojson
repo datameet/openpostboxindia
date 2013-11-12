@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.623174624, 
+                    13.005783832
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "3rd Cross Road, BL Rice Nagar, Cooke Town, Bangalore, Karnataka 560084, India", 
+                "CAPTION": "St Thomas Town post office", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/559206674192217123_31979172", 
+                "ID": "559206674192217123_31979172", 
+                "IMG": "http://distilleryimage3.s3.amazonaws.com/0b066e162ce011e3b4e822000a9f130c_7.jpg", 
+                "PINCODE": "560084", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560084"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

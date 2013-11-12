@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.638635414, 
+                    12.959526308
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "7th Cross Road, Domlur I Stage, Domlur, Bangalore, Karnataka 560071, India", 
+                "CAPTION": "Dommalur #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/401915144801695310_31979172", 
+                "ID": "401915144801695310_31979172", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/dfaa4e6a825611e2be8622000a9f192b_7.jpg", 
+                "PINCODE": "560071", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

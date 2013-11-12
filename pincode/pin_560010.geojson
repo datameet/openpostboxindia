@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.5520239, 
+                    12.9999907
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "14th Cross Road, Nagapura, Bangalore, Karnataka 560010, India", 
+                "CAPTION": "Opposite SBM", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/475796255092585952_31979172", 
+                "ID": "475796255092585952_31979172", 
+                "IMG": "http://distilleryimage8.s3.amazonaws.com/004b67f2d27111e2b9d422000aa80579_7.jpg", 
+                "PINCODE": "560010", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560010"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

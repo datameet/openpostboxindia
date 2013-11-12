@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.198887883, 
+                    28.565251647
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kamal Cinema Bus Stop, Nauroji Nagar Marg, Safdarjung Enclave, New Delhi, Delhi 110016, India", 
+                "CAPTION": "A1 Block SJE", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "South West Delhi", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/383158200360318478_31979172", 
+                "ID": "383158200360318478_31979172", 
+                "IMG": "http://distilleryimage10.s3.amazonaws.com/c69c4afa6e0011e2b46022000a1f9be1_7.jpg", 
+                "PINCODE": "110022", 
+                "STATE": "Delhi", 
+                "TAGS": "pin110022, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

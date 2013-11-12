@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.167087637, 
+                    12.936924264
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kunigal Main Rd, Karnataka, India", 
+                "CAPTION": "Sathanuru", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/381540448138769990_31979172", 
+                "ID": "381540448138769990_31979172", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/c265dcf26c3f11e282e022000a1fbc68_7.jpg", 
+                "PINCODE": "562120", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin562120"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

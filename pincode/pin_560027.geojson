@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.59031131, 
+                    12.95424634
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "H Siddaiah Rd, Sudhama Nagar, Bangalore, Karnataka, India", 
+                "CAPTION": "Bangalore mediation center ", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/326560710119208828_31979172", 
+                "ID": "326560710119208828_31979172", 
+                "IMG": "http://distilleryimage0.s3.amazonaws.com/d10d948e30a311e2b2c322000a1f9804_7.jpg", 
+                "PINCODE": "560027", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin560027, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.61455886, 
+                    12.91639327
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Outer Ring Rd, BTM Layout 2nd Stage, Bangalore, Karnataka, India", 
+                "CAPTION": "BTM", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/342534867101234473_31979172", 
+                "ID": "342534867101234473_31979172", 
+                "IMG": "http://distilleryimage1.s3.amazonaws.com/892c11dc41f511e282e122000a1f9aae_7.jpg", 
+                "PINCODE": "560027", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560027"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

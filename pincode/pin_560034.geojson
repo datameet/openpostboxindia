@@ -1,0 +1,115 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.62171573, 
+                    12.92961257
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "100 Feet Rd, John Nagar, Koramangala, Bangalore, Karnataka, India", 
+                "CAPTION": "Opposite to BDA complex, Koramangala", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/340923237112297428_31979172", 
+                "ID": "340923237112297428_31979172", 
+                "IMG": "http://distilleryimage0.s3.amazonaws.com/37f9bfb4403611e2b60722000a9f09f0_7.jpg", 
+                "PINCODE": "560034", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560034, postbox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.6265474, 
+                    12.92720185
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "12th Main Rd, Koramangala 3 Block, Koramangala, Bangalore, Karnataka 560034, India", 
+                "CAPTION": "Koramangala 3rd block post office  #pin560034", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/341108296431776887_31979172", 
+                "ID": "341108296431776887_31979172", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/953aecd8406911e2ae2622000a1fb7e1_7.jpg", 
+                "PINCODE": "560034", 
+                "STATE": "Karnataka", 
+                "TAGS": "postoffice, openpostboxindia, pin560034"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.62041112, 
+                    12.92552003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "100 Feet Road, Koramangala 2B Block, Koramangala, Bangalore, Karnataka, India", 
+                "CAPTION": "In front of Kendriya Sadan.", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/371608437987030882_31979172", 
+                "ID": "371608437987030882_31979172", 
+                "IMG": "http://distilleryimage6.s3.amazonaws.com/12a21bf6617b11e2a82b22000a9f1408_7.jpg", 
+                "PINCODE": "560034", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560034, postbox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.62603644, 
+                    12.93425627
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "2, 16th Main Road, Koramangala 4 Block, Koramangala, Bangalore, Karnataka 560034, India", 
+                "CAPTION": "4th block Koramangala. Near 16h main.", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/372958181657228395_31979172", 
+                "ID": "372958181657228395_31979172", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/b3b0079862f111e2ad6322000a9f14f2_7.jpg", 
+                "PINCODE": "560034", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560034"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.6264324, 
+                    12.9271989
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "869, 12th Main Road, Koramangala 3 Block, Koramangala, Bangalore, Karnataka 560034, India", 
+                "CAPTION": "Koramangala 3rd block post office #openpostboxindia #pin560034", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/563662757906711862_582942400", 
+                "ID": "563662757906711862_582942400", 
+                "IMG": "http://distilleryimage6.s3.amazonaws.com/dad27fa831b411e3983422000ae80f97_7.jpg", 
+                "PINCODE": "560034", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560034"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

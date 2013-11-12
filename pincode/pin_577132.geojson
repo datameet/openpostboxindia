@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    75.6051756, 
+                    13.1248285
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "National Highway 234, Karnataka 577132, India", 
+                "CAPTION": "Bidarahalli #openpostboxindia  #pin577132", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/565715659395531805_582942400", 
+                "ID": "565715659395531805_582942400", 
+                "IMG": "http://distilleryimage1.s3.amazonaws.com/a63ee4a233ee11e3822f22000a9f09ca_7.jpg", 
+                "PINCODE": "577132", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin577132"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.7112519, 
+                    13.0965931
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "National Highway 234, Gonebidu, Karnataka 75123, India", 
+                "CAPTION": "Saalmara #openpostboxindia #pin577132", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/566301457761273096_582942400", 
+                "ID": "566301457761273096_582942400", 
+                "IMG": "http://distilleryimage0.s3.amazonaws.com/3db7e796349111e3a62a22000aa803cb_7.jpg", 
+                "PINCODE": "577132", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin577132"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

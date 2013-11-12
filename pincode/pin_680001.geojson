@@ -1,0 +1,115 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.212085087, 
+                    10.524323581
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Swaraj Round West, Naikkanal, Thrissur, Kerala 680022, India", 
+                "CAPTION": "Round. MG Road", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/418012220551672938_31979172", 
+                "ID": "418012220551672938_31979172", 
+                "IMG": "http://distilleryimage6.s3.amazonaws.com/b5b0782093ca11e2a97a22000a9f18aa_7.jpg", 
+                "PINCODE": "680001", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680001"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.215503287, 
+                    10.520507526
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Municipal Office Road, Veliyannur, Thrissur, Kerala 680001, India", 
+                "CAPTION": "In front of BSNL office", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/418021617839453482_31979172", 
+                "ID": "418021617839453482_31979172", 
+                "IMG": "http://distilleryimage10.s3.amazonaws.com/5165ba1c93cd11e299e022000a1fb043_7.jpg", 
+                "PINCODE": "680001", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680001"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.215539168, 
+                    10.520377001
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Post Office Road, Veliyannur, Thrissur, Kerala 680001, India", 
+                "CAPTION": "Thrissur central post office", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/418026311953495433_31979172", 
+                "ID": "418026311953495433_31979172", 
+                "IMG": "http://distilleryimage5.s3.amazonaws.com/9ef0bbe693ce11e280dd22000a9f3cd5_7.jpg", 
+                "PINCODE": "680001", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680001"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.216283778, 
+                    10.522734853
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Swaraj Round South, Veliyannur, Thrissur, Kerala, India", 
+                "CAPTION": "Near south Indian bank", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/418037733185894017_31979172", 
+                "ID": "418037733185894017_31979172", 
+                "IMG": "http://distilleryimage1.s3.amazonaws.com/ca78d30e93d111e2b9c422000a1f968f_7.jpg", 
+                "PINCODE": "680001", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680001"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.217195147, 
+                    10.52425766
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Swaraj Round East, Thrissur, Kerala 680022, India", 
+                "CAPTION": "Near Kalyan jewelers", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/418040720125933250_31979172", 
+                "ID": "418040720125933250_31979172", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/9eb578a293d211e2829822000a9f1487_7.jpg", 
+                "PINCODE": "680001", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680001"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.56831203, 
+                    13.00377291
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "4th Main Rd, Malleshwaram, Bangalore, Karnataka, India", 
+                "CAPTION": "Near KEB office. Malleshwaram  ", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bengaluru Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/334470537998840851_31979172", 
+                "ID": "334470537998840851_31979172", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/3c1fe0f6393711e2b55122000a1f9be7_7.jpg", 
+                "PINCODE": "560003", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560003"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.570603141, 
+                    13.001868404
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "East Park Road, Malleshwaram, Bangalore, Karnataka 560003, India", 
+                "CAPTION": "Near krishna temple", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/435958776152012508_31979172", 
+                "ID": "435958776152012508_31979172", 
+                "IMG": "http://distilleryimage0.s3.amazonaws.com/e12a5fcea73f11e2952e22000a9f3cf3_7.jpg", 
+                "PINCODE": "560003", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560003"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
