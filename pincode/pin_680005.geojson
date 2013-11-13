@@ -21,6 +21,28 @@
                 "TAGS": "openpostboxindia, pin680005"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.22604, 
+                    10.527022
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "", 
+                "CAPTION": "Bishop palace , #openpostboxindia #pin680005", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580831080029193616_582942400", 
+                "ID": "580831080029193616_582942400", 
+                "IMG": "http://distilleryimage4.s3.amazonaws.com/0578d202445211e3ab6822000a1fbc38_8.jpg", 
+                "PINCODE": "680005", 
+                "STATE": "", 
+                "TAGS": "openpostboxindia, pin680005"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

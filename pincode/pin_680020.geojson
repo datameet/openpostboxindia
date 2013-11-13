@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.21763847, 
+                    10.52586432
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Palace Road, Chembukkav, Thrissur, Kerala 680022, India", 
+                "CAPTION": "Palace road thrissur #openpostboxindia #pin680020", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580434118163400646_582942400", 
+                "ID": "580434118163400646_582942400", 
+                "IMG": "http://distilleryimage10.s3.amazonaws.com/d7a3225643e311e3968922000a1fbe74_8.jpg", 
+                "PINCODE": "680020", 
+                "STATE": "Kerala", 
+                "TAGS": "pin680020, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.21769349, 
+                    10.53070193
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Stadium Road, Chembukkav, Thrissur, Kerala 680022, India", 
+                "CAPTION": "Opp town hall #openpostboxindia #pin680020", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580833496728438194_582942400", 
+                "ID": "580833496728438194_582942400", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/b131d1d4445211e3950022000a9e28a2_8.jpg", 
+                "PINCODE": "680020", 
+                "STATE": "Kerala", 
+                "TAGS": "pin680020, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

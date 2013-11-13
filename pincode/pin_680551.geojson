@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.1668569, 
+                    10.5530755
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "10/385, Adat Road, Adatt, Kerala 680553, India", 
+                "CAPTION": "Adatt gram panchayat office #openpostboxindia #pin680551", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/581504892139832423_582942400", 
+                "ID": "581504892139832423_582942400", 
+                "IMG": "http://distilleryimage11.s3.amazonaws.com/0ab50c5c450d11e3af9822000ae910c9_8.jpg", 
+                "PINCODE": "680551", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680551"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.1551762, 
+                    10.5527456
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Adat Road, Thrissur, Kerala 680553, India", 
+                "CAPTION": "Puranatukara #openpostboxindia #pin680551", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/581528245932230015_582942400", 
+                "ID": "581528245932230015_582942400", 
+                "IMG": "http://distilleryimage11.s3.amazonaws.com/86175624451311e3838722000ae910b6_8.jpg", 
+                "PINCODE": "680551", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680551"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    75.8940784, 
+                    11.1267956
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "358, Edapally - Panvel Highway, Thenhipalam, Kerala 673636, India", 
+                "CAPTION": "Indian coffee house university thenjipalam #openpostboxindia #pin673635", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Malappuram", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/582168213054653976_582942400", 
+                "ID": "582168213054653976_582942400", 
+                "IMG": "http://distilleryimage0.s3.amazonaws.com/267d6dea45c511e3996722000a9f18fe_8.jpg", 
+                "PINCODE": "673635", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin673635"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.89448654, 
+                    11.13236625
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "University-salaamath Nagar Road, Korachankandy, Thenhipalam, Kerala 673635, India", 
+                "CAPTION": "Calicut university #openpostboxindia #pin673635", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Malappuram", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/582179403138959079_582942400", 
+                "ID": "582179403138959079_582942400", 
+                "IMG": "http://distilleryimage3.s3.amazonaws.com/4197a3ae45c811e399d822000ab5c170_8.jpg", 
+                "PINCODE": "673635", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin673635"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

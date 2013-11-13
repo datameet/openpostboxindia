@@ -285,6 +285,28 @@
                 "TAGS": "pin560001, openpostboxindia"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.2213425, 
+                    10.5109115
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "High Road, West Hill Residence, Kuriachira, Thrissur, Kerala 680006, India", 
+                "CAPTION": "High road #openpostboxindia #pin560001", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/581148719997879943_582942400", 
+                "ID": "581148719997879943_582942400", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/2f26f14444aa11e3aacd22000a1f932c_8.jpg", 
+                "PINCODE": "560001", 
+                "STATE": "Kerala", 
+                "TAGS": "pin560001, openpostboxindia"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

@@ -109,6 +109,72 @@
                 "TAGS": "openpostboxindia, pin680001"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.203142, 
+                    10.5225373
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Mahatma Gandhi Road, Kottappuram, Thrissur, Kerala 680004, India", 
+                "CAPTION": "Near Ambika arcade, Mg road #openpostboxindia #pin680001", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580826622339679581_582942400", 
+                "ID": "580826622339679581_582942400", 
+                "IMG": "http://distilleryimage9.s3.amazonaws.com/c8bce85e445011e3ad5622000a1f98e5_8.jpg", 
+                "PINCODE": "680001", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680001"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.2105442, 
+                    10.5238303
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "709, Mahatma Gandhi Road, Poothole, Thrissur, Kerala 680004, India", 
+                "CAPTION": "Mg road thrissur, #openpostboxindia #pin680001", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/583170706941249494_582942400", 
+                "ID": "583170706941249494_582942400", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/65f8348e46db11e3b145120e7295bf20_8.jpg", 
+                "PINCODE": "680001", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680001"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.2184721, 
+                    10.5149688
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "High Road, Thampuran Nagar, Veliyannur, Thrissur, Kerala 680006, India", 
+                "CAPTION": "Police control room high road thrisur #openpostboxindia #pin680001", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/583318432802768455_582942400", 
+                "ID": "583318432802768455_582942400", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/6685c50a470411e387720e8e429886c3_8.jpg", 
+                "PINCODE": "680001", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680001"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

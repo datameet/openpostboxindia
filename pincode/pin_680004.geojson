@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.19941789, 
+                    10.52202442
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Ayyanthole Civil Line Road, Asvary Nagar, Ayyanthole, Thrissur, Kerala 680003, India", 
+                "CAPTION": "West fort. #openpostboxindia #pin680004", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580793588605355896_582942400", 
+                "ID": "580793588605355896_582942400", 
+                "IMG": "http://distilleryimage4.s3.amazonaws.com/9d8b516a444711e38d1822000a1f8cf0_8.jpg", 
+                "PINCODE": "680004", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680004"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.20314204, 
+                    10.5225374
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Mahatma Gandhi Road, Kottappuram, Thrissur, Kerala 680004, India", 
+                "CAPTION": "Mg road #openpostboxindia #pin680004", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580824011209278787_582942400", 
+                "ID": "580824011209278787_582942400", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/0f3477ee445011e3bedc22000a9e5acf_8.jpg", 
+                "PINCODE": "680004", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680004"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.20314204, 
+                    10.5225374
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Mahatma Gandhi Road, Kottappuram, Thrissur, Kerala 680004, India", 
+                "CAPTION": "Mg road #openpostboxindia #pin680004", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580825579870586194_582942400", 
+                "ID": "580825579870586194_582942400", 
+                "IMG": "http://distilleryimage10.s3.amazonaws.com/7eab47ba445011e39f1422000a1fbc0e_8.jpg", 
+                "PINCODE": "680004", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680004"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

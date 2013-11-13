@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.5424209, 
+                    12.9712449
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "7th Main Road, Hoshalli Extension, Vijayanagar, Bangalore, Karnataka 560040, India", 
+                "CAPTION": "Vijayanagar 7th main", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/575918429874238930_31979172", 
+                "ID": "575918429874238930_31979172", 
+                "IMG": "http://distilleryimage10.s3.amazonaws.com/7cb0c19e3efe11e3be9f22000aaa056b_8.jpg", 
+                "PINCODE": "560040", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560040"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

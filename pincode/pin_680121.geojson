@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.2102962, 
+                    10.3451796
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Ayyankavu Temple Road, Irinjalakuda, Kerala 680121, India", 
+                "CAPTION": "Irinjalakuda nada, #pin680121, #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580723419048674741_582942400", 
+                "ID": "580723419048674741_582942400", 
+                "IMG": "http://distilleryimage5.s3.amazonaws.com/23b4d388443411e385e022000a9e51fb_8.jpg", 
+                "PINCODE": "680121", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680121"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

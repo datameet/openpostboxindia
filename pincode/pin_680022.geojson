@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.21769349, 
+                    10.53070193
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Stadium Road, Chembukkav, Thrissur, Kerala 680022, India", 
+                "CAPTION": "Next to thiruvanbady temple #openpostboxindia #pin680022", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580835533507626443_582942400", 
+                "ID": "580835533507626443_582942400", 
+                "IMG": "http://origincache-frc.fbcdn.net/1391268_168673493340022_167204401_n.jpg", 
+                "PINCODE": "680022", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680022"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

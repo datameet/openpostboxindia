@@ -19,6 +19,7 @@ for row in results:
 	for box in post_boxes:
 		data = {}
 		data["ID"]=box[0]
+		print data['ID']
 		data["IMG"]=box[1]
 		data["TAGS"]=box[2]
 		data["CONTRIBUTOR"]=box[6]

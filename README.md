@@ -6,11 +6,14 @@ openpostboxindia data as geojson. Check pincode folder for the actual data.
 
 Stats
 =====
-
 Total contributors : 3
+Total postbox : 115
 
-Total postbox : 89
-
+Contributors
+============
+instagram-anjananju	 34
+instagram-thejeshgn	 80
+staneja	 1  
 
 
 

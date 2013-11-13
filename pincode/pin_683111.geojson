@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.390846256, 
+                    10.155551246
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "International Terminal Road, Cochin International Airport (COK), Nedumbassery, Kerala 683111, India", 
+                "CAPTION": "International departure #openpostboxindia #pin683111", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Ernakulam", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/583275102641141229_31979172", 
+                "ID": "583275102641141229_31979172", 
+                "IMG": "http://distilleryimage9.s3.amazonaws.com/5fba2f5646f811e3b2570e65d17ed6f1_8.jpg", 
+                "PINCODE": "683111", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin683111"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.1994178, 
+                    10.5220244
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Ayyanthole Civil Line Road, Asvary Nagar, Ayyanthole, Thrissur, Kerala 680003, India", 
+                "CAPTION": "Kerala verma mens hostel #openpostboxindia #pin680011", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580820713102214418_582942400", 
+                "ID": "580820713102214418_582942400", 
+                "IMG": "http://distilleryimage6.s3.amazonaws.com/24dc845c444f11e3ac7c22000a1f96a8_8.jpg", 
+                "PINCODE": "680011", 
+                "STATE": "Kerala", 
+                "TAGS": "pin680011, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.1994178, 
+                    10.5220244
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Ayyanthole Civil Line Road, Asvary Nagar, Ayyanthole, Thrissur, Kerala 680003, India", 
+                "CAPTION": "Kanattukara PO #openpostboxindia #pin680011", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580821304725570845_582942400", 
+                "ID": "580821304725570845_582942400", 
+                "IMG": "http://distilleryimage5.s3.amazonaws.com/4ee61060444f11e380f522000a9e17fb_8.jpg", 
+                "PINCODE": "680011", 
+                "STATE": "Kerala", 
+                "TAGS": "pin680011, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

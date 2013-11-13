@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.521638887, 
+                    13.035592624
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "B-102, Peenya II Phase, Peenya Industrial Area, Bangalore, Karnataka 560058, India", 
+                "CAPTION": "Infront of ISTRAC", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/577298388664530627_31979172", 
+                "ID": "577298388664530627_31979172", 
+                "IMG": "http://distilleryimage3.s3.amazonaws.com/80a8c208407d11e3b39022000aa80567_8.jpg", 
+                "PINCODE": "560058", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560058"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

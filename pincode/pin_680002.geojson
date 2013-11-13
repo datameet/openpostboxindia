@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.20798537, 
+                    10.51564228
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "PKG PLAZA, Railway Station Road, Poothole, Thrissur, Kerala 680021, India", 
+                "CAPTION": "Thrissur railway station #pin680002 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580792423712917343_582942400", 
+                "ID": "580792423712917343_582942400", 
+                "IMG": "http://distilleryimage11.s3.amazonaws.com/4ac650ba444711e3ac5222000a1f8ea3_8.jpg", 
+                "PINCODE": "680002", 
+                "STATE": "Kerala", 
+                "TAGS": "pin680002, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.2176934, 
+                    10.5307019
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Stadium Road, Chembukkav, Thrissur, Kerala 680022, India", 
+                "CAPTION": "Punkunnu PO #openpostboxindia #pin680002", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580838854272321007_582942400", 
+                "ID": "580838854272321007_582942400", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/2dde38ca445411e3adc322000ab5ab44_8.jpg", 
+                "PINCODE": "680002", 
+                "STATE": "Kerala", 
+                "TAGS": "pin680002, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.2176934, 
+                    10.5307019
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Stadium Road, Chembukkav, Thrissur, Kerala 680022, India", 
+                "CAPTION": "Punkunam central #openpostboxindia #pin680002", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580839705556649464_582942400", 
+                "ID": "580839705556649464_582942400", 
+                "IMG": "http://distilleryimage4.s3.amazonaws.com/6a5c003e445411e398c722000ab5a787_8.jpg", 
+                "PINCODE": "680002", 
+                "STATE": "Kerala", 
+                "TAGS": "pin680002, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

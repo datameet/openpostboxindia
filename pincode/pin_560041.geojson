@@ -21,6 +21,28 @@
                 "TAGS": "openpostboxindia, pin560041"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.5857235, 
+                    12.9233446
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "555, 36th Cross Road, 5th Block, Jayanagar, Bangalore, Karnataka 560011, India", 
+                "CAPTION": "Jayanagar head post office #pin560041 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/585140277935965254_582942400", 
+                "ID": "585140277935965254_582942400", 
+                "IMG": "http://distilleryimage6.s3.amazonaws.com/1067246048fe11e38f0112a8e543a953_8.jpg", 
+                "PINCODE": "560041", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560041"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"
