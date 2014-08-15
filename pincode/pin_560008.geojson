@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.646718, 
+                    12.960004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "", 
+                "CAPTION": "#openpostboxindia kodihalli bus stop, hal road", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/640509552703669911_582942400", 
+                "ID": "640509552703669911_582942400", 
+                "IMG": "http://distilleryimage0.s3.amazonaws.com/fb2da918850511e38ec0121894149508_8.jpg", 
+                "PINCODE": "560008", 
+                "STATE": "", 
+                "TAGS": "openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.620086667, 
+                    12.974320389
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kensington Road, Someshwarpura, Halasuru, Bangalore, Karnataka 560001, India", 
+                "CAPTION": "Bsnl office opp park hotel Bangalore #openpostboxindia #pin560008", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/645700935441810985_582942400", 
+                "ID": "645700935441810985_582942400", 
+                "IMG": "http://distilleryimage4.s3.amazonaws.com/e492a8108aa611e3afc71228f51002cc_8.jpg", 
+                "PINCODE": "560008", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin560008, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.6286523, 
+                    12.9700009
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "16/3, Cambridge Road, Cambridge Layout, Jogupalya, Bangalore, Karnataka 560008, India", 
+                "CAPTION": "Cambridge road #openpostboxindia #pin560008", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/763617625759909824_582942400", 
+                "ID": "763617625759909824_582942400", 
+                "IMG": "http://scontent-b.cdninstagram.com/hphotos-xpf1/t51.2885-15/10488634_813346498684189_1237027195_n.jpg", 
+                "PINCODE": "560008", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin560008, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -65,6 +65,28 @@
                 "TAGS": "openpostboxindia, pin560042"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.61873625, 
+                    12.987526889
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "38/9, Kensington Road, Sindhi Colony, Frazer Town, Bangalore, Karnataka 560005, India", 
+                "CAPTION": "Tank road ulsoor #pin560042 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/750813262561773225_582942400", 
+                "ID": "750813262561773225_582942400", 
+                "IMG": "http://scontent-b.cdninstagram.com/hphotos-xap1/t51.2885-15/10467942_1435262743402574_1447635025_n.jpg", 
+                "PINCODE": "560042", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560042"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

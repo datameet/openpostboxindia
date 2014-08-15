@@ -43,6 +43,28 @@
                 "TAGS": "openpostboxindia, pin110001"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.220501383, 
+                    28.63178184
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Rajiv Chowk, Rajeev Chowk, Connaught Place, New Delhi, Delhi 110001, India", 
+                "CAPTION": "Caunaught place #openpostboxindia #pin110001", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "New Delhi", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/602747004401038705_31979172", 
+                "ID": "602747004401038705_31979172", 
+                "IMG": "http://distilleryimage1.s3.amazonaws.com/e990cfec5c1411e3bd5c0e0517cae372_8.jpg", 
+                "PINCODE": "110001", 
+                "STATE": "Delhi", 
+                "TAGS": "openpostboxindia, pin110001"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

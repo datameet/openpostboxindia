@@ -21,6 +21,28 @@
                 "TAGS": "openpostboxindia, pin573201"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.07583116, 
+                    13.00085461
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Belur Road, Vijay Nagar, Hassan, Karnataka 573201, India", 
+                "CAPTION": "Guddenahalli #pin573201 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Hassan", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/622101711559164957_582942400", 
+                "ID": "622101711559164957_582942400", 
+                "IMG": "http://distilleryimage5.s3.amazonaws.com/cc69ed52711011e38ded120785fa0495_8.jpg", 
+                "PINCODE": "573201", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin573201, openpostboxindia"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

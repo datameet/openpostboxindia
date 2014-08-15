@@ -1,7 +1,7 @@
 import sqlite3
 import json
 
-conn = sqlite3.connect("/home/thej/Desktop/postbox.sqlite") # or use :memory: to put it in RAM
+conn = sqlite3.connect("postbox.sqlite") # or use :memory: to put it in RAM
 cursor = conn.cursor()
  #go to pincode table
 results = cursor.execute("""select pincode from pin_code order by pincode """)

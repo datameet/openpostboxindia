@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.2830968, 
+                    12.7220076
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Railway Station Road, Agrahar, Ramanagara, Karnataka 562159, India", 
+                "CAPTION": "Ramanagara #openpostboxindia  #pin562159", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Ramanagara", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/646629102194866021_31979172", 
+                "ID": "646629102194866021_31979172", 
+                "IMG": "http://distilleryimage0.s3.amazonaws.com/a3315f268ba811e3afe50eeec555452c_8.jpg", 
+                "PINCODE": "562159", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin562159, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

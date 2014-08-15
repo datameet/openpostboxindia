@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.670692417, 
+                    11.921669944
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kozhikode-Mysore-Kollegal Highway, Taggalur, Karnataka 571109, India", 
+                "CAPTION": "Beleguru ooty road #openpostboxindia #pin571109", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chamarajanagar", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/716273712040871427_582942400", 
+                "ID": "716273712040871427_582942400", 
+                "IMG": "http://origincache-prn.fbcdn.net/926177_612050308891752_1043135834_n.jpg", 
+                "PINCODE": "571109", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin571109"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

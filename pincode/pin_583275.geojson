@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.62867978, 
+                    15.17317499
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Ring Road, Vidyanagar, Toranagallu, Karnataka 583123, India", 
+                "CAPTION": "Vidyanagar postoffice #pin583275 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bellary", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/615795286239184073_582942400", 
+                "ID": "615795286239184073_582942400", 
+                "IMG": "http://distilleryimage4.s3.amazonaws.com/89c14acc6a3a11e3907c1296586a1d24_8.jpg", 
+                "PINCODE": "583275", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin583275, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.628912153, 
+                    15.172461379
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Ring Road, Vidyanagar, Toranagallu, Karnataka 583123, India", 
+                "CAPTION": "Inside Shopping complex #openpostboxindia #pin583275", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bellary", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/616605651350665136_31979172", 
+                "ID": "616605651350665136_31979172", 
+                "IMG": "http://distilleryimage10.s3.amazonaws.com/4f77c8326b1b11e3bc38124489a0976e_8.jpg", 
+                "PINCODE": "583275", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin583275, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

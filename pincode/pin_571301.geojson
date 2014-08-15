@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.67622375, 
+                    12.12141225
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "", 
+                "CAPTION": "Nanjangud,#openpostboxindia #pin571301", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/716259486891082970_582942400", 
+                "ID": "716259486891082970_582942400", 
+                "IMG": "http://origincache-ash.fbcdn.net/926181_1409534039326058_1763341516_n.jpg", 
+                "PINCODE": "571301", 
+                "STATE": "", 
+                "TAGS": "openpostboxindia, pin571301"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.673774694, 
+                    12.115522361
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "", 
+                "CAPTION": "Nanjangud police station #openpostboxindia #pin571301", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/716260276066157806_582942400", 
+                "ID": "716260276066157806_582942400", 
+                "IMG": "http://origincache-frc.fbcdn.net/10245937_1446464725596298_727320999_n.jpg", 
+                "PINCODE": "571301", 
+                "STATE": "", 
+                "TAGS": "openpostboxindia, pin571301"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

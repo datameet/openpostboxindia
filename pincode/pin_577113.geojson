@@ -87,6 +87,28 @@
                 "TAGS": "pin577113, openpostboxindia"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.57726879, 
+                    13.13003862
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "National Highway 234, Bankenahalli, Karnataka 577113, India", 
+                "CAPTION": "Phalguni #pin577113 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/622062770852300094_582942400", 
+                "ID": "622062770852300094_582942400", 
+                "IMG": "http://distilleryimage11.s3.amazonaws.com/58efde7a710311e3a4fe12e807355677_8.jpg", 
+                "PINCODE": "577113", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin577113, openpostboxindia"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

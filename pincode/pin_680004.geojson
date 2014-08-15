@@ -65,6 +65,28 @@
                 "TAGS": "openpostboxindia, pin680004"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.2054678, 
+                    10.5275789
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kottappuram Road, Chakkamukku, Thrissur, Kerala 680667, India", 
+                "CAPTION": "Near Kudumbashree restaurant #openpostboxindia #pin680004", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Thrissur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/666344384994051876_582942400", 
+                "ID": "666344384994051876_582942400", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/89c66e1ca10811e3948b128b537d81a7_8.jpg", 
+                "PINCODE": "680004", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin680004"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.620704639, 
+                    12.966642361
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Victoria Road, Jogupalya, Bangalore, Karnataka 560007, India", 
+                "CAPTION": "Toards somlir from trinity #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/667952807070238519_582942400", 
+                "ID": "667952807070238519_582942400", 
+                "IMG": "http://distilleryimage8.s3.amazonaws.com/0e864c7aa2c711e380520e3a0c49f9b8_8.jpg", 
+                "PINCODE": "560007", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560007"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

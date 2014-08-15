@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.6247444, 
+                    15.175126
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kudligi Road, Toranagallu, Karnataka 583123, India", 
+                "CAPTION": "Vaddu #pin583123 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bellary", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/616321189222385422_582942400", 
+                "ID": "616321189222385422_582942400", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/755c48426acc11e38b7612f41c94e347_8.jpg", 
+                "PINCODE": "583123", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin583123"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

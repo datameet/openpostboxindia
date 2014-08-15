@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    75.40404701, 
+                    13.36548107
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Chikmagalur-Sringeri Road, Herur, Karnataka 577112, India", 
+                "CAPTION": "Herooru #pin577118 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/620863261178693495_582942400", 
+                "ID": "620863261178693495_582942400", 
+                "IMG": "http://distilleryimage9.s3.amazonaws.com/2ddf66ba6fb911e3816f0eceecffb26d_8.jpg", 
+                "PINCODE": "574118", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin577118, pin574118"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -43,6 +43,50 @@
                 "TAGS": "openpostboxindia, pin577132"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.6284861, 
+                    13.12135778
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "National Highway 234, Mudigere, Karnataka 577132, India", 
+                "CAPTION": "Handpost mudigere #pin577132 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/622062480698737973_582942400", 
+                "ID": "622062480698737973_582942400", 
+                "IMG": "http://distilleryimage3.s3.amazonaws.com/e9d29a70710511e387020e4547f39cc3_8.jpg", 
+                "PINCODE": "577132", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin577132"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.68135978, 
+                    13.0818334
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "National Highway 234, Nidagodu, Karnataka 75123, India", 
+                "CAPTION": "Jannapura #pin577132 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/622067324968863132_582942400", 
+                "ID": "622067324968863132_582942400", 
+                "IMG": "http://distilleryimage0.s3.amazonaws.com/5e875cba710711e394e312cc6335db0c_8.jpg", 
+                "PINCODE": "577132", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin577132"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

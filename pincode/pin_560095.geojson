@@ -21,6 +21,50 @@
                 "TAGS": "openpostboxindia, pin560095"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.618983, 
+                    12.938417
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "", 
+                "CAPTION": "Koramangala 6th block. #openpostboxindia #pin560095", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/680973266029982849_31979172", 
+                "ID": "680973266029982849_31979172", 
+                "IMG": "http://distilleryimage11.s3.amazonaws.com/fc9bd0dab0e411e3916412b00e4954bf_8.jpg", 
+                "PINCODE": "560095", 
+                "STATE": "", 
+                "TAGS": "openpostboxindia, pin560095"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.6248026, 
+                    12.9371467
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "507, 5th Main Road, Koramangala 6 Block, Koramangala, Bangalore, Karnataka 560095, India", 
+                "CAPTION": "Near Koramangala club #openpostboxindia #pin560095", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/684657624234407143_31979172", 
+                "ID": "684657624234407143_31979172", 
+                "IMG": "http://distilleryimage1.s3.amazonaws.com/82a1b288b4e311e39686129d69e7bd65_8.jpg", 
+                "PINCODE": "560095", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560095"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

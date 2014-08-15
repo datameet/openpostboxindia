@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    74.0490143, 
+                    15.0080284
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Edapally - Panvel Highway, Chaudi, Canacona, Goa 403702, India", 
+                "CAPTION": "Canacona post office #openpostboxindia #pin403702", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "South Goa", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/619400371535971798_582942400", 
+                "ID": "619400371535971798_582942400", 
+                "IMG": "http://distilleryimage5.s3.amazonaws.com/0cb30b8c6e2311e3ab9712deb6b81b29_8.jpg", 
+                "PINCODE": "403702", 
+                "STATE": "Goa", 
+                "TAGS": "openpostboxindia, pin403702"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.636742, 
+                    12.9780767
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "549, Indiranagar Double Road, Indira Nagar III Stage, Binnamangala, stage 2, Indira Nagar, Bangalore, Karnataka 560038, India", 
+                "CAPTION": "#openpostboxindia", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/676675020424034078_31979172", 
+                "ID": "676675020424034078_31979172", 
+                "IMG": "http://distilleryimage1.s3.amazonaws.com/02061808ac3c11e3bf60122558be4625_8.jpg", 
+                "PINCODE": "560038", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

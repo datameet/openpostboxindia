@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    75.2552384, 
+                    13.4274177
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Solapur-Mangalore Highway, Sringeri Rural, Karnataka 577139, India", 
+                "CAPTION": "Jamia masjid sringeri #openpostboxindia #pin577139", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/620853934623655655_582942400", 
+                "ID": "620853934623655655_582942400", 
+                "IMG": "http://distilleryimage11.s3.amazonaws.com/97ef588a6faf11e3950d123a7487b243_8.jpg", 
+                "PINCODE": "577139", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin577139"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.29755311, 
+                    13.3880574
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Chikmagalur-Sringeri Road, Kunchebylu, Karnataka 577139, India", 
+                "CAPTION": "Kunchebyle #pin577139 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/620855965228828425_582942400", 
+                "ID": "620855965228828425_582942400", 
+                "IMG": "http://distilleryimage1.s3.amazonaws.com/686cf3c46fb411e3a802125c560acf71_8.jpg", 
+                "PINCODE": "577139", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin577139"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.21169175, 
+                    13.47651044
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "State Highway 27, Nalluru, Karnataka 577120, India", 
+                "CAPTION": "Nallur #openpostboxindia #pin577139", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/620860436868597573_582942400", 
+                "ID": "620860436868597573_582942400", 
+                "IMG": "http://distilleryimage10.s3.amazonaws.com/b20581e06faf11e396e312b3099bf222_8.jpg", 
+                "PINCODE": "577139", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin577139"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.2625997, 
+                    13.420584
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "\u0c95\u0cb2\u0ccd\u0c95\u0c9f\u0ccd\u0c9f\u0cc6, Menase, Karnataka 577139, India", 
+                "CAPTION": "Masige #pin577139 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/620861150797858637_582942400", 
+                "ID": "620861150797858637_582942400", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/820eadd06fb011e397e2122466b7dba2_8.jpg", 
+                "PINCODE": "577139", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin577139"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

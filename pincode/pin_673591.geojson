@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.209907528, 
+                    11.656951889
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kozhikode-Mysore-Kollegal Highway, Kolagapaara, Kerala 673593, India", 
+                "CAPTION": "Kolagappara #openpostboxindia #pin673591", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Wayanad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/716330125379339544_582942400", 
+                "ID": "716330125379339544_582942400", 
+                "IMG": "http://origincache-prn.fbcdn.net/10296865_694988853891199_844424637_n.jpg", 
+                "PINCODE": "673591", 
+                "STATE": "Kerala", 
+                "TAGS": "openpostboxindia, pin673591"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

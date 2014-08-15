@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.4618769, 
+                    15.3341658
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Hampi Bazaar Street, Hampi, Karnataka 583239, India", 
+                "CAPTION": "Hampi #openpostboxindia  #pin583239", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bellary", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/616499934939940850_582942400", 
+                "ID": "616499934939940850_582942400", 
+                "IMG": "http://distilleryimage5.s3.amazonaws.com/1d4bf54e6afe11e3b2f6121629f091fd_8.jpg", 
+                "PINCODE": "583239", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin583239, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.46036172, 
+                    15.33501638
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Hampi Bazaar Street, Hampi, Karnataka 583239, India", 
+                "CAPTION": "Virupaksha temple hampi #pin583239 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bellary", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/616500028674246644_582942400", 
+                "ID": "616500028674246644_582942400", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/23b8a22e6afe11e3b2e4128e9f115fde_8.jpg", 
+                "PINCODE": "583239", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin583239, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.461907143, 
+                    15.334174153
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Hampi Bazaar Street, Hampi, Karnataka 583239, India", 
+                "CAPTION": "Hampi post office", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bellary", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/616501415111636171_31979172", 
+                "ID": "616501415111636171_31979172", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/85e5c7a66afe11e3bdef1223b69bdde6_8.jpg", 
+                "PINCODE": "583239", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin583239, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

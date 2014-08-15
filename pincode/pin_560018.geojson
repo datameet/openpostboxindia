@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.5674439, 
+                    12.9552712
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "239, Bull Temple Road, Chamarajpet, Bangalore, Karnataka 560004, India", 
+                "CAPTION": "Chamrajpet blr 18 #openpostboxindia #pin560018", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/701823192039524039_582942400", 
+                "ID": "701823192039524039_582942400", 
+                "IMG": "http://distilleryimage4.s3.amazonaws.com/1302496ac78011e385510002c9c8f728_8.jpg", 
+                "PINCODE": "560018", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560018"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

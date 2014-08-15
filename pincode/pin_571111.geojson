@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.669441222, 
+                    11.860821722
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kozhikode-Mysore-Kollegal Highway, Malavalli, Karnataka 571111, India", 
+                "CAPTION": "Gundlepet post office #openpostboxindia #pin571111", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chamarajanagar", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/716281708649219738_582942400", 
+                "ID": "716281708649219738_582942400", 
+                "IMG": "http://origincache-ash.fbcdn.net/10326645_795486613797836_105555276_n.jpg", 
+                "PINCODE": "571111", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin571111"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.687934861, 
+                    11.810279833
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kozhikode-Mysore-Kollegal Highway, Gundlupet, Karnataka 571111, India", 
+                "CAPTION": "Gundlepet #openpostboxindia #pin571111", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chamarajanagar", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/716282638627079853_582942400", 
+                "ID": "716282638627079853_582942400", 
+                "IMG": "http://origincache-frc.fbcdn.net/10268857_667301760007935_103629639_n.jpg", 
+                "PINCODE": "571111", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin571111"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.636604306, 
+                    11.791360833
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kozhikode-Mysore-Kollegal Highway, Koothanuru, Karnataka 571111, India", 
+                "CAPTION": "Koothanuru sultan bathery road #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chamarajanagar", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/716287575691986689_582942400", 
+                "ID": "716287575691986689_582942400", 
+                "IMG": "http://origincache-frc.fbcdn.net/915422_238894192977187_1169645610_n.jpg", 
+                "PINCODE": "571111", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

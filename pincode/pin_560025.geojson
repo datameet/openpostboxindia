@@ -65,6 +65,72 @@
                 "TAGS": "openpostboxindia, pin560025"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.6137888, 
+                    12.9682149
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "", 
+                "CAPTION": "Near Hosmat hospital", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/569559332685952204_31979172", 
+                "ID": "569559332685952204_31979172", 
+                "IMG": "http://distilleryimage4.s3.amazonaws.com/7ba8db06381911e3bc7922000ae90d97_8.jpg", 
+                "PINCODE": "560025", 
+                "STATE": "", 
+                "TAGS": "pin560025, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.615402222, 
+                    12.96925925
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Brunton Road, Craig Park Layout, Ashok Nagar, Bangalore, Karnataka 560025, India", 
+                "CAPTION": "Richmond road outside additional director general of police #openpostboxindia #pin560025", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/688282132898219606_582942400", 
+                "ID": "688282132898219606_582942400", 
+                "IMG": "http://distilleryimage4.s3.amazonaws.com/85d88138b8d111e38724125f3af85a04_8.jpg", 
+                "PINCODE": "560025", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560025"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.600585917, 
+                    12.998116472
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "6, Nandi Durga Road, Nandi Durga Road Extension, Jayamahal, Bangalore, Karnataka 560046, India", 
+                "CAPTION": "Nandidurg road #openpostboxindia #pin560025", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/762451461918787045_582942400", 
+                "ID": "762451461918787045_582942400", 
+                "IMG": "http://scontent-a.cdninstagram.com/hphotos-xfa1/t51.2885-15/917192_481600298641478_1433930636_n.jpg", 
+                "PINCODE": "560025", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560025"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

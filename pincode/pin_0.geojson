@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.587912337, 
+                    12.908657639
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "21st Main Road, Jeewan Griha Colony, 2nd Phase, J P Nagar, Bangalore, Karnataka 560078, India", 
+                "CAPTION": "12 cross #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/700440990271484974_31979172", 
+                "ID": "700440990271484974_31979172", 
+                "IMG": "http://distilleryimage8.s3.amazonaws.com/6f23675ac60011e3978d0002c9c61840_8.jpg", 
+                "PINCODE": "0", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

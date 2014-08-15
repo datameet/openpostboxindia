@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.5970647, 
+                    12.9218508
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "128, East End Main Road, Jayanagara 9th Block, Jayanagar, Bangalore, Karnataka 560041, India", 
+                "CAPTION": "38 cross. East end main road. #openpostboxindia #pin560069", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/622804925306451182_31979172", 
+                "ID": "622804925306451182_31979172", 
+                "IMG": "http://distilleryimage2.s3.amazonaws.com/e4a37d3471d311e3b2cb0e6798f1b77e_8.jpg", 
+                "PINCODE": "560069", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560069"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

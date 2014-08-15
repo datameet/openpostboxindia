@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    75.42821634, 
+                    13.34813663
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Chikmagalur-Sringeri Road, Bhadra Wildlife Sanctuary, Seegodu, Karnataka 577112, India", 
+                "CAPTION": "Devagodu #pin577112 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/620866561106085795_582942400", 
+                "ID": "620866561106085795_582942400", 
+                "IMG": "http://distilleryimage4.s3.amazonaws.com/1460f0ea6fba11e38f7e12414a7d7418_8.jpg", 
+                "PINCODE": "577112", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin577112, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.46240598, 
+                    13.34817764
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Chikmagalur-Sringeri Road, Bhadra Wildlife Sanctuary, Balehonnur, Karnataka 577112, India", 
+                "CAPTION": "Balehonnur #openpostboxindia #pin577112", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/620870975787206606_582942400", 
+                "ID": "620870975787206606_582942400", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/3380ec406fbb11e3b19a128c0352f527_8.jpg", 
+                "PINCODE": "577112", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin577112, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.4906903, 
+                    13.3331138
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Balehonnur Kalasa Road, Bhadra Wildlife Sanctuary, Balehonnur, Karnataka 577112, India", 
+                "CAPTION": "Bannuru post office #openpostboxindia #pin577112", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/622052870097044617_582942400", 
+                "ID": "622052870097044617_582942400", 
+                "IMG": "http://distilleryimage1.s3.amazonaws.com/12b76db86fc011e3aba80edc38dbd115_8.jpg", 
+                "PINCODE": "577112", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin577112, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

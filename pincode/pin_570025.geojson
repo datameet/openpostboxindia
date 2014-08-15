@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.658477778, 
+                    12.283658972
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "", 
+                "CAPTION": "Jss college ooty road Mysore #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/716245255500171230_582942400", 
+                "ID": "716245255500171230_582942400", 
+                "IMG": "http://origincache-frc.fbcdn.net/10349676_1435786490006234_2017999059_n.jpg", 
+                "PINCODE": "570025", 
+                "STATE": "", 
+                "TAGS": "openpostboxindia, pin570025"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

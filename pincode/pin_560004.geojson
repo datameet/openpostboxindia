@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.568740833, 
+                    12.953729611
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Ranga Rao Road, Shankarapuram, Bangalore, Karnataka 560004, India", 
+                "CAPTION": "Near brahmins cafe, shankarapuram, basavangudi #openpostboxindia #pin560004", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/672084247840131023_582942400", 
+                "ID": "672084247840131023_582942400", 
+                "IMG": "http://distilleryimage3.s3.amazonaws.com/b342c4d6a74111e3b19a128c0352f527_8.jpg", 
+                "PINCODE": "560004", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560004"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.579727167, 
+                    12.948949806
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "19, Ratna Vilas Road, Visveswarapuram, Shankarapuram, Bangalore, Karnataka 560004, India", 
+                "CAPTION": "Rv road lalbagh #openpostboxindia #pin560004", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/701782354794219456_582942400", 
+                "ID": "701782354794219456_582942400", 
+                "IMG": "http://distilleryimage8.s3.amazonaws.com/add89c2ac77411e3bb0a0002c9c5d9f4_8.jpg", 
+                "PINCODE": "560004", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560004"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.569923389, 
+                    12.95158575
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Shankar Mutt Road, Shankarapuram, Bangalore, Karnataka 560004, India", 
+                "CAPTION": "Shankarmatt road sharakarpuaram #openpostboxindia #pin560004", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/701787342132053038_582942400", 
+                "ID": "701787342132053038_582942400", 
+                "IMG": "http://origincache-frc.fbcdn.net/1516683_674573122608963_1803052853_n.jpg", 
+                "PINCODE": "560004", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560004"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -21,6 +21,28 @@
                 "TAGS": "openpostboxindia"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.636024472, 
+                    12.960954639
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "5, Service Road, 1st Stage, Domlur, Bangalore, Karnataka 560071, India", 
+                "CAPTION": "Near Ashoka Domlur #openpostboxindia #pin560071", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/654061701467309278_582942400", 
+                "ID": "654061701467309278_582942400", 
+                "IMG": "http://distilleryimage1.s3.amazonaws.com/8144722e93b711e3a6e5120b07343bd9_8.jpg", 
+                "PINCODE": "560071", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560071"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

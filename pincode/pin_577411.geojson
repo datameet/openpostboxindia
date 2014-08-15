@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    75.0826711, 
+                    13.4976519
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "State Highway 27, Agumbe Reserve Forest, Agumbe, Karnataka", 
+                "CAPTION": "Hosagadde #openpostboxindia #pin577411", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Shivamogga", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/620862501397301098_582942400", 
+                "ID": "620862501397301098_582942400", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/f803df806fb811e3b4f51212a90bc89b_8.jpg", 
+                "PINCODE": "577411", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin577411"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    75.09654473, 
+                    13.50944159
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "State Highway 27, Agumbe Reserve Forest, Agumbe, Karnataka 577411", 
+                "CAPTION": "Agumbe post office #pin577411 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Shivamogga", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/620863661910886273_582942400", 
+                "ID": "620863661910886273_582942400", 
+                "IMG": "http://distilleryimage11.s3.amazonaws.com/763e45fa6fb611e3960b12ad27277173_8.jpg", 
+                "PINCODE": "577411", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin577411"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

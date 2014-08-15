@@ -307,6 +307,28 @@
                 "TAGS": "pin560001, openpostboxindia"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.6083355, 
+                    12.9815733
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "57, Dispensary Road, Tasker Town, Sampangi Rama Nagar, Bangalore, Karnataka 560001, India", 
+                "CAPTION": "Dispensary road, Commercial street bangalore #openpostboxindia #pin560001", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/635952764209694452_582942400", 
+                "ID": "635952764209694452_582942400", 
+                "IMG": "http://distilleryimage7.s3.amazonaws.com/3f3c93e4801511e3a5a00eb3ec7026c3_8.jpg", 
+                "PINCODE": "560001", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin560001, openpostboxindia"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

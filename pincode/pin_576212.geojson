@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    74.97540864, 
+                    13.52255335
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "State Highway 27, Ardi, Karnataka 576212, India", 
+                "CAPTION": "Madaamakki #openpostboxindia #pin576212", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Udupi", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/620753956559488702_582942400", 
+                "ID": "620753956559488702_582942400", 
+                "IMG": "http://distilleryimage9.s3.amazonaws.com/3bc713966f9a11e3984e123939604885_8.jpg", 
+                "PINCODE": "576212", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin576212, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -43,6 +43,28 @@
                 "TAGS": "openpostboxindia, pin560041"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.5963819, 
+                    12.9269024
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "1356, 32nd Cross Road, 4th Block, Jayanagar, Bangalore, Karnataka 560041, India", 
+                "CAPTION": "Next to Apostolic Carmel Generalate #openpostboxindia #560041", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/622802198505534648_31979172", 
+                "ID": "622802198505534648_31979172", 
+                "IMG": "http://distilleryimage3.s3.amazonaws.com/2a66f22071d311e39f7512f604582c7b_8.jpg", 
+                "PINCODE": "560041", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, 560041"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

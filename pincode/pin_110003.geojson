@@ -21,6 +21,28 @@
                 "TAGS": "pin110003, openpostboxindia"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.22975398, 
+                    28.607992691
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "B/53 TO 60, Pandara Road, Pandara Flats, India Gate, New Delhi, Delhi 110003, India", 
+                "CAPTION": "Pandara Road #openpostboxindia #pin110003", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "New Delhi", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/602872755649590586_31979172", 
+                "ID": "602872755649590586_31979172", 
+                "IMG": "http://distilleryimage10.s3.amazonaws.com/d0baa3765c3711e3a6c81248b07140bf_8.jpg", 
+                "PINCODE": "110003", 
+                "STATE": "Delhi", 
+                "TAGS": "pin110003, openpostboxindia"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"

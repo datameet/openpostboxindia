@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.59748075, 
+                    12.985269528
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Edward Road, Vasanth Nagar, Bangalore, Karnataka 560051, India", 
+                "CAPTION": "Hvs apartments, Edward road off queens road #openpostboxindia #pin560052", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/701829519121942307_582942400", 
+                "ID": "701829519121942307_582942400", 
+                "IMG": "http://origincache-prn.fbcdn.net/10249310_226017854263407_1901129894_n.jpg", 
+                "PINCODE": "560052", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560052"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

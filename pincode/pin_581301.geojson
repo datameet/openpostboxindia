@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    74.12540234, 
+                    14.80513366
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Edapally - Panvel Highway, Karwar, Karnataka 581301, India", 
+                "CAPTION": "Karwar #openpostboxindia #pin581301", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Uttara Kannada", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/619423936318637825_582942400", 
+                "ID": "619423936318637825_582942400", 
+                "IMG": "http://distilleryimage4.s3.amazonaws.com/af54b2fe6e2911e38e780ec19be2b448_8.jpg", 
+                "PINCODE": "581301", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin581301"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

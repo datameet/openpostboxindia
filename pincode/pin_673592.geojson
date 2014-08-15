@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    76.327575667, 
+                    11.664102528
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kozhikode-Mysore-Kollegal Highway, Kalloor, Kerala 673592, India", 
+                "CAPTION": "Naiketty noolpuzha #openpostboxindia #pin673592", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Wayanad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/716316461964297339_582942400", 
+                "ID": "716316461964297339_582942400", 
+                "IMG": "http://origincache-prn.fbcdn.net/10358309_458583857578603_732342247_n.jpg", 
+                "PINCODE": "673592", 
+                "STATE": "Kerala", 
+                "TAGS": "pin673592, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.393798806, 
+                    11.691184028
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kozhikode-Mysore-Kollegal Highway, Wayanad Wildlife Sanctuary, Karnataka 673592, India", 
+                "CAPTION": "Kalloor #openpostboxindia #pin673592", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Wayanad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/716316521691186301_582942400", 
+                "ID": "716316521691186301_582942400", 
+                "IMG": "http://origincache-ash.fbcdn.net/929097_1485347921683304_826384037_n.jpg", 
+                "PINCODE": "673592", 
+                "STATE": "Karnataka", 
+                "TAGS": "pin673592, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.31687925, 
+                    11.666092861
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kozhikode-Mysore-Kollegal Highway, Naikkatty, Kerala 673592, India", 
+                "CAPTION": "Naiketty #openpostboxindia #pin673592", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Wayanad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/716317778824758418_582942400", 
+                "ID": "716317778824758418_582942400", 
+                "IMG": "http://origincache-ash.fbcdn.net/916026_556480017804897_1053652085_n.jpg", 
+                "PINCODE": "673592", 
+                "STATE": "Kerala", 
+                "TAGS": "pin673592, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    76.239982583, 
+                    11.661120389
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kozhikode-Mysore-Kollegal Highway, Sultan Bathery, Kerala 673592, India", 
+                "CAPTION": "Beenachi #openpostboxindia #pin673592", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Wayanad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/716327610977977596_582942400", 
+                "ID": "716327610977977596_582942400", 
+                "IMG": "http://origincache-frc.fbcdn.net/10349644_1438650139716838_1740671185_n.jpg", 
+                "PINCODE": "673592", 
+                "STATE": "Kerala", 
+                "TAGS": "pin673592, openpostboxindia"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

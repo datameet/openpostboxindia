@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    75.37127699, 
+                    13.40116346
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Chikmagalur-Sringeri Road, Jayapura, Karnataka 577123, India", 
+                "CAPTION": "Durgadabetta #openpostboxindia #pin577118", 
+                "CONTRIBUTOR": "instagram-anjananju", 
+                "DISTRICT": "Chikmagalur", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/620859535269398325_582942400", 
+                "ID": "620859535269398325_582942400", 
+                "IMG": "http://distilleryimage8.s3.amazonaws.com/247070d46fb811e3859a127409421c84_8.jpg", 
+                "PINCODE": "577118", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin577118"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

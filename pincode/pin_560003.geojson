@@ -43,6 +43,28 @@
                 "TAGS": "openpostboxindia, pin560003"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.5637202, 
+                    13.0057402
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "15th Cross Road, Malleshwaram, Bangalore, Karnataka 560003, India", 
+                "CAPTION": "MES College #openpostboxindia #pin560003", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/743155261878908165_31979172", 
+                "ID": "743155261878908165_31979172", 
+                "IMG": "http://scontent-a.cdninstagram.com/hphotos-xap1/t51.2885-15/10424523_745528262166426_553554344_n.jpg", 
+                "PINCODE": "560003", 
+                "STATE": "Karnataka", 
+                "TAGS": "openpostboxindia, pin560003"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"
