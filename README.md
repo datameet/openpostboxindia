@@ -8,17 +8,15 @@ You can contribute using Instagram. Check the [steps](http://openbangalore.org/p
 
 Stats
 =====
-Total contributors : 3
-
-Total postbox : 115
+287 postboxes submitted by 5 users as of Monday 26th of January 2015. 
 
 Contributors
 ============
-instagram-anjananju	 34
-
-instagram-thejeshgn	 80
-
-staneja	 1  
+instagram-anjananju	92
+instagram-shwetawrites	1
+instagram-thejeshgn	97
+odk-pradeep	96
+staneja 1
 
 License
 =======
