@@ -1,0 +1,137 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.5248318, 
+                    17.36892622
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Santhoshi Maatha Temple Road, Krishna Nagar, Dilsukhnagar, Hyderabad, Telangana 500060, India", 
+                "CAPTION": "Santhoshi Maatha Temple Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/4e90c0d7-1f4e-443b-93b3-a9806310c33d", 
+                "ID": "4e90c0d7-1f4e-443b-93b3-a9806310c33d", 
+                "IMG": "http://openbangalore.org/postboximg/4e90c0d7-1f4e-443b-93b3-a9806310c33d.jpg", 
+                "PINCODE": "500060", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.52481763, 
+                    17.36908219
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Santhoshi Maatha Temple Road, Krishna Nagar, Dilsukhnagar, Hyderabad, Telangana 500060, India", 
+                "CAPTION": "Santhoshi Maatha Temple Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/7531cfc8-f491-4c75-b0fc-5479330d5de2", 
+                "ID": "7531cfc8-f491-4c75-b0fc-5479330d5de2", 
+                "IMG": "http://openbangalore.org/postboximg/7531cfc8-f491-4c75-b0fc-5479330d5de2.jpg", 
+                "PINCODE": "500060", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.52944752, 
+                    17.36845316
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Kalaniketan Bus Stop, Dilsukh Nagar Main Road, VR Colony, Kamala Nagar, Dilsukhnagar, Hyderabad, Telangana 500060, India", 
+                "CAPTION": "Dilsukh Nagar Main Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/f3c22708-a3be-460a-95b7-603754839643", 
+                "ID": "f3c22708-a3be-460a-95b7-603754839643", 
+                "IMG": "http://openbangalore.org/postboximg/f3c22708-a3be-460a-95b7-603754839643.jpg", 
+                "PINCODE": "500060", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.52730885, 
+                    17.36290967
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "13-117, New Post Office Road, Kodandaram Nagar, Dilsukhnagar, Hyderabad, Telangana 500035, India", 
+                "CAPTION": "New Post Office Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/0880eefe-d182-41c0-97dd-764b66f31af9", 
+                "ID": "0880eefe-d182-41c0-97dd-764b66f31af9", 
+                "IMG": "http://openbangalore.org/postboximg/0880eefe-d182-41c0-97dd-764b66f31af9.jpg", 
+                "PINCODE": "500060", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.52722283, 
+                    17.36317772
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "13-117, New Post Office Road, Kodandaram Nagar, Dilsukhnagar, Hyderabad, Telangana 500035, India", 
+                "CAPTION": "New Post Office Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/0d912095-de7c-42c7-b704-470b701e665c", 
+                "ID": "0d912095-de7c-42c7-b704-470b701e665c", 
+                "IMG": "http://openbangalore.org/postboximg/0d912095-de7c-42c7-b704-470b701e665c.jpg", 
+                "PINCODE": "500060", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.52949182, 
+                    17.36776917
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Lane 2, Vijaya Residency, Kamala Nagar, Dilsukhnagar, Hyderabad, Telangana 500060, India", 
+                "CAPTION": "Lane 2", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/773f3577-26df-4bec-871b-d10f936ad9b6", 
+                "ID": "773f3577-26df-4bec-871b-d10f936ad9b6", 
+                "IMG": "http://openbangalore.org/postboximg/773f3577-26df-4bec-871b-d10f936ad9b6.jpg", 
+                "PINCODE": "500060", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

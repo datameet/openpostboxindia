@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.47782554, 
+                    17.34340004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "18-3-3/25, Lal Darwaza Road, Ali Bagh, Lal Darwaza, Hyderabad, Telangana 500053, India", 
+                "CAPTION": "Lal Darwaza Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/aac01210-8190-48d0-9fe1-4c0f5ddc56c3", 
+                "ID": "aac01210-8190-48d0-9fe1-4c0f5ddc56c3", 
+                "IMG": "http://openbangalore.org/postboximg/aac01210-8190-48d0-9fe1-4c0f5ddc56c3.jpg", 
+                "PINCODE": "500053", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.47784261, 
+                    17.34335338
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "18-3-3/25, Lal Darwaza Road, Ali Bagh, Lal Darwaza, Hyderabad, Telangana 500053, India", 
+                "CAPTION": "Lal Darwaza Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/b9406f64-62cd-4f80-8f60-d0ef9b23aac1", 
+                "ID": "b9406f64-62cd-4f80-8f60-d0ef9b23aac1", 
+                "IMG": "http://openbangalore.org/postboximg/b9406f64-62cd-4f80-8f60-d0ef9b23aac1.jpg", 
+                "PINCODE": "500053", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

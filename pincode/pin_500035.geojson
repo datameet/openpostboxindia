@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.55191975, 
+                    17.36684275
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Road Number 1, Alkapuri, Ramakrishnapuram, Kothapet, Hyderabad, Telangana 500035, India", 
+                "CAPTION": "Road Number 1, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/11bd457c-8e02-449f-bf9d-e08439de01c7", 
+                "ID": "11bd457c-8e02-449f-bf9d-e08439de01c7", 
+                "IMG": "http://openbangalore.org/postboximg/11bd457c-8e02-449f-bf9d-e08439de01c7.jpg", 
+                "PINCODE": "500035", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.55184813, 
+                    17.36686244
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Road Number 1, Alkapuri, Ramakrishnapuram, Kothapet, Hyderabad, Telangana 500035, India", 
+                "CAPTION": "Road Number 1, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/e22dc721-b646-4ebc-a919-8799fa138f6f", 
+                "ID": "e22dc721-b646-4ebc-a919-8799fa138f6f", 
+                "IMG": "http://openbangalore.org/postboximg/e22dc721-b646-4ebc-a919-8799fa138f6f.jpg", 
+                "PINCODE": "500035", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.53889149, 
+                    17.36638283
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "11-75-145/A, National Highway 9, HUDA Complex, Saroornagar, Hyderabad, Telangana 500035, India", 
+                "CAPTION": "National Highway 9", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/094055ac-418a-4281-bbd2-a970b313b76b", 
+                "ID": "094055ac-418a-4281-bbd2-a970b313b76b", 
+                "IMG": "http://openbangalore.org/postboximg/094055ac-418a-4281-bbd2-a970b313b76b.jpg", 
+                "PINCODE": "500035", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.53890664, 
+                    17.36626057
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "11-75-145/A, National Highway 9, HUDA Complex, Saroornagar, Hyderabad, Telangana 500035, India", 
+                "CAPTION": "National Highway 9", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/60baaee8-7265-44b2-bb16-e5855a2765d6", 
+                "ID": "60baaee8-7265-44b2-bb16-e5855a2765d6", 
+                "IMG": "http://openbangalore.org/postboximg/60baaee8-7265-44b2-bb16-e5855a2765d6.jpg", 
+                "PINCODE": "500035", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.55489306, 
+                    17.40492933
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "18-37, Inner Ring Road, Prashanth Nagar, Uppal, Hyderabad, Telangana 500039, India", 
+                "CAPTION": "Inner Ring Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/c6f4bc47-b93d-4938-aa58-f8a120122b9e", 
+                "ID": "c6f4bc47-b93d-4938-aa58-f8a120122b9e", 
+                "IMG": "http://openbangalore.org/postboximg/c6f4bc47-b93d-4938-aa58-f8a120122b9e.jpg", 
+                "PINCODE": "500039", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.5549882, 
+                    17.40494738
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "18-37, Inner Ring Road, Prashanth Nagar, Uppal, Hyderabad, Telangana 500039, India", 
+                "CAPTION": "Inner Ring Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/f7f17a53-40e0-430d-8f55-a6558ccd1fa8", 
+                "ID": "f7f17a53-40e0-430d-8f55-a6558ccd1fa8", 
+                "IMG": "http://openbangalore.org/postboximg/f7f17a53-40e0-430d-8f55-a6558ccd1fa8.jpg", 
+                "PINCODE": "500039", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.56182451, 
+                    17.40289209
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "12-6, Beerppa Nagar Road, Sri Nagar Colony, Uppal, Hyderabad, Telangana 500039, India", 
+                "CAPTION": "Beerppa Nagar Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/99df5181-3e9a-4f69-ac70-b4585dc23e3b", 
+                "ID": "99df5181-3e9a-4f69-ac70-b4585dc23e3b", 
+                "IMG": "http://openbangalore.org/postboximg/99df5181-3e9a-4f69-ac70-b4585dc23e3b.jpg", 
+                "PINCODE": "500039", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.56145842, 
+                    17.40320577
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Beerppa Nagar Road, P & T Colony, Uppal, Hyderabad, Telangana 500039, India", 
+                "CAPTION": "Beerppa Nagar Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/0ae966e2-f54d-48eb-b6ec-a285e96c0aed", 
+                "ID": "0ae966e2-f54d-48eb-b6ec-a285e96c0aed", 
+                "IMG": "http://openbangalore.org/postboximg/0ae966e2-f54d-48eb-b6ec-a285e96c0aed.jpg", 
+                "PINCODE": "500039", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

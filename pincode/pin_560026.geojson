@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.54426342, 
+                    12.95429423
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "2nd Main Road, Byatarayanapura, Srinagar, Bapuji Nagar, Bengaluru, Karnataka 560026, India", 
+                "CAPTION": "2nd Main Road, Bengaluru", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/0a287dbb-71a0-460e-b480-e361b5515edb", 
+                "ID": "0a287dbb-71a0-460e-b480-e361b5515edb", 
+                "IMG": "http://openbangalore.org/postboximg/0a287dbb-71a0-460e-b480-e361b5515edb.jpg", 
+                "PINCODE": "560026", 
+                "STATE": "Karnataka", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.54441016, 
+                    12.95435892
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "342/19, Mysore Road, New Guddadahalli, Bapuji Nagar, Bengaluru, Karnataka 560026, India", 
+                "CAPTION": "Mysore Road, Bengaluru", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/d8fdb321-192c-4150-a3dd-3af307e71bd1", 
+                "ID": "d8fdb321-192c-4150-a3dd-3af307e71bd1", 
+                "IMG": "http://openbangalore.org/postboximg/d8fdb321-192c-4150-a3dd-3af307e71bd1.jpg", 
+                "PINCODE": "560026", 
+                "STATE": "Karnataka", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

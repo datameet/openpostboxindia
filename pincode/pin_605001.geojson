@@ -1,0 +1,27 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    79.82916, 
+                    11.9351122
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "70, Ranga Pillai Street, M.G. Road Area, Puducherry, Puducherry 605001, India", 
+                "CAPTION": "Jawaharalal neharu street #pin605001 #openpostboxindia", 
+                "CONTRIBUTOR": "instagram-thejeshgn", 
+                "DISTRICT": "Pondicherry", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/767427256476841663_31979172", 
+                "ID": "767427256476841663_31979172", 
+                "IMG": "http://scontent-b.cdninstagram.com/hphotos-xap1/t51.2885-15/e15/10507947_1584731088420536_338476775_n.jpg", 
+                "PINCODE": "605001", 
+                "STATE": "Puducherry", 
+                "TAGS": "openpostboxindia, pin605001"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

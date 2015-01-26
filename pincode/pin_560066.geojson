@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.74819703, 
+                    12.96833772
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "88/15, Borewell Road, Phase 2, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066, India", 
+                "CAPTION": "Borewell Road, Bengaluru", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/90e0a8c1-a95f-4b21-b098-5578455d59a9", 
+                "ID": "90e0a8c1-a95f-4b21-b098-5578455d59a9", 
+                "IMG": "http://openbangalore.org/postboximg/90e0a8c1-a95f-4b21-b098-5578455d59a9.jpg", 
+                "PINCODE": "560066", 
+                "STATE": "Karnataka", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.74823041, 
+                    12.96834662
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "88/15, Borewell Road, Phase 2, Palm Meadows, Whitefield, Bengaluru, Karnataka 560066, India", 
+                "CAPTION": "Borewell Road, Bengaluru", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/bf99fbd5-e751-40ca-95f0-fbeba38b3b3c", 
+                "ID": "bf99fbd5-e751-40ca-95f0-fbeba38b3b3c", 
+                "IMG": "http://openbangalore.org/postboximg/bf99fbd5-e751-40ca-95f0-fbeba38b3b3c.jpg", 
+                "PINCODE": "560066", 
+                "STATE": "Karnataka", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

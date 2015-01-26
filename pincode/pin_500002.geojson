@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.47758426, 
+                    17.36856694
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "22-7-283, Dewan Devdi, Chatta Bazaar, Pathar Gatti, Hyderabad, Telangana 500002, India", 
+                "CAPTION": ", Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/a23873e2-80c6-4b1f-9816-8e2993b284c8", 
+                "ID": "a23873e2-80c6-4b1f-9816-8e2993b284c8", 
+                "IMG": "http://openbangalore.org/postboximg/a23873e2-80c6-4b1f-9816-8e2993b284c8.jpg", 
+                "PINCODE": "500002", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.47761151, 
+                    17.36857385
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "22-7-283, Dewan Devdi, Chatta Bazaar, Pathar Gatti, Hyderabad, Telangana 500002, India", 
+                "CAPTION": ", Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/4e0d9aa9-fc51-4717-83fb-740a26a85169", 
+                "ID": "4e0d9aa9-fc51-4717-83fb-740a26a85169", 
+                "IMG": "http://openbangalore.org/postboximg/4e0d9aa9-fc51-4717-83fb-740a26a85169.jpg", 
+                "PINCODE": "500002", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.47676326, 
+                    17.35781297
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Moghulpura Playground Road, Moghalpura, Hyderabad, Telangana 500002, India", 
+                "CAPTION": "Moghulpura Playground Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/1a7b5eae-aef0-4930-b3bb-fc1aa981c8fb", 
+                "ID": "1a7b5eae-aef0-4930-b3bb-fc1aa981c8fb", 
+                "IMG": "http://openbangalore.org/postboximg/1a7b5eae-aef0-4930-b3bb-fc1aa981c8fb.jpg", 
+                "PINCODE": "500002", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

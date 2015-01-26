@@ -9,15 +9,15 @@
                 "type": "Point"
             }, 
             "properties": {
-                "ADDRESS": "", 
+                "ADDRESS": "State Highway 27, Jayapura, Karnataka 577123, India", 
                 "CAPTION": "Jayapura #pin577123 #openpostboxindia", 
                 "CONTRIBUTOR": "instagram-anjananju", 
-                "DISTRICT": "", 
+                "DISTRICT": "Chikkamagaluru", 
                 "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/620855713906132738_582942400", 
                 "ID": "620855713906132738_582942400", 
                 "IMG": "http://distilleryimage0.s3.amazonaws.com/11d9a8e26fb711e3887b12b2048ab8f0_8.jpg", 
                 "PINCODE": "577123", 
-                "STATE": "", 
+                "STATE": "Karnataka", 
                 "TAGS": "openpostboxindia, pin577123"
             }, 
             "type": "Feature"

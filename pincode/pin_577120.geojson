@@ -9,38 +9,16 @@
                 "type": "Point"
             }, 
             "properties": {
-                "ADDRESS": "", 
+                "ADDRESS": "State Highway 27, Bidaragodu, Karnataka 577411, India", 
                 "CAPTION": "Begaru #openpostboxindia #pin577120", 
                 "CONTRIBUTOR": "instagram-anjananju", 
-                "DISTRICT": "", 
+                "DISTRICT": "Shimoga", 
                 "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/620854124155864811_582942400", 
                 "ID": "620854124155864811_582942400", 
                 "IMG": "http://distilleryimage5.s3.amazonaws.com/a403f7e66fb611e385a40e4cbd071739_8.jpg", 
                 "PINCODE": "577120", 
-                "STATE": "", 
-                "TAGS": "openpostboxindia, pin577120"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    75.20775516, 
-                    13.48543751
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "ADDRESS": "State Highway 27, Nalluru, Karnataka 577120, India", 
-                "CAPTION": "Boluru bus stop #openpostboxindia", 
-                "CONTRIBUTOR": "instagram-anjananju", 
-                "DISTRICT": "Shivamogga", 
-                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/620859886483638075_582942400", 
-                "ID": "620859886483638075_582942400", 
-                "IMG": "http://distilleryimage8.s3.amazonaws.com/516a6cee6fb711e39c0e128540f6df6c_8.jpg", 
-                "PINCODE": "577120", 
                 "STATE": "Karnataka", 
-                "TAGS": "openpostboxindia"
+                "TAGS": "openpostboxindia, pin577120"
             }, 
             "type": "Feature"
         }, 

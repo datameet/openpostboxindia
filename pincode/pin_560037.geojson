@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.68808955, 
+                    12.95599957
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "2nd Cross Road, Sector 3, Marathahalli, Bengaluru, Karnataka 560037, India", 
+                "CAPTION": "2nd Cross Road, Bengaluru", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/36908f92-ccc1-45f9-b1e1-d0f626af25bf", 
+                "ID": "36908f92-ccc1-45f9-b1e1-d0f626af25bf", 
+                "IMG": "http://openbangalore.org/postboximg/36908f92-ccc1-45f9-b1e1-d0f626af25bf.jpg", 
+                "PINCODE": "560037", 
+                "STATE": "Karnataka", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.68806857, 
+                    12.95591651
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Old Airport Road, Sector 3, Marathahalli, Bengaluru, Karnataka 560017, India", 
+                "CAPTION": "Old Airport Road, Bengaluru", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/0e41c690-34c2-4a6f-9a69-55c1116e9d3b", 
+                "ID": "0e41c690-34c2-4a6f-9a69-55c1116e9d3b", 
+                "IMG": "http://openbangalore.org/postboximg/0e41c690-34c2-4a6f-9a69-55c1116e9d3b.jpg", 
+                "PINCODE": "560037", 
+                "STATE": "Karnataka", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.71829128, 
+                    12.96606265
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "2, ITPL Main Road, Kundalahalli, Brookefield, Bengaluru, Karnataka 560037, India", 
+                "CAPTION": "ITPL Main Road, Bengaluru", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/4554f75d-19c4-4383-af0a-6ee9ed3af688", 
+                "ID": "4554f75d-19c4-4383-af0a-6ee9ed3af688", 
+                "IMG": "http://openbangalore.org/postboximg/4554f75d-19c4-4383-af0a-6ee9ed3af688.jpg", 
+                "PINCODE": "560037", 
+                "STATE": "Karnataka", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.71833546, 
+                    12.96614203
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "2, ITPL Main Road, Kundalahalli, Brookefield, Bengaluru, Karnataka 560037, India", 
+                "CAPTION": "ITPL Main Road, Bengaluru", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/f1feb582-3aa3-4616-a577-d674280885ec", 
+                "ID": "f1feb582-3aa3-4616-a577-d674280885ec", 
+                "IMG": "http://openbangalore.org/postboximg/f1feb582-3aa3-4616-a577-d674280885ec.jpg", 
+                "PINCODE": "560037", 
+                "STATE": "Karnataka", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

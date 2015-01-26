@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.48406522, 
+                    17.39700191
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Old MLA Quarters Road, Old MLA Quarters, King Koti, Hyderguda, Hyderabad, Telangana 500029, India", 
+                "CAPTION": "Old MLA Quarters Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/1d31f11c-5c8d-45f6-8a50-570d078c3893", 
+                "ID": "1d31f11c-5c8d-45f6-8a50-570d078c3893", 
+                "IMG": "http://openbangalore.org/postboximg/1d31f11c-5c8d-45f6-8a50-570d078c3893.jpg", 
+                "PINCODE": "500029", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.48631718, 
+                    17.39569876
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Narayanguda Main Road, Ramkoti, King Koti, Hyderguda, Hyderabad, Telangana 500029, India", 
+                "CAPTION": "Narayanguda Main Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/f429d73a-db4b-4ad5-b767-880b8178deb4", 
+                "ID": "f429d73a-db4b-4ad5-b767-880b8178deb4", 
+                "IMG": "http://openbangalore.org/postboximg/f429d73a-db4b-4ad5-b767-880b8178deb4.jpg", 
+                "PINCODE": "500029", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.48621908, 
+                    17.39576756
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Narayanguda Main Road, Ramkoti, King Koti, Hyderguda, Hyderabad, Telangana 500029, India", 
+                "CAPTION": "Narayanguda Main Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/e36569d2-b886-4de7-82f6-fe80552c3040", 
+                "ID": "e36569d2-b886-4de7-82f6-fe80552c3040", 
+                "IMG": "http://openbangalore.org/postboximg/e36569d2-b886-4de7-82f6-fe80552c3040.jpg", 
+                "PINCODE": "500029", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

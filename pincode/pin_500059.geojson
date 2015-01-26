@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.50508583, 
+                    17.35634748
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Old Eidgah Road, Raziya Complex, Banu Nagar, Madannapet, Hyderabad, Telangana 500059, India", 
+                "CAPTION": "Old Eidgah Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/13d68cca-658a-4172-a28e-4a82fcad4fde", 
+                "ID": "13d68cca-658a-4172-a28e-4a82fcad4fde", 
+                "IMG": "http://openbangalore.org/postboximg/13d68cca-658a-4172-a28e-4a82fcad4fde.jpg", 
+                "PINCODE": "500059", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.50514243, 
+                    17.35632166
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Old Eidgah Road, Raziya Complex, Banu Nagar, Madannapet, Hyderabad, Telangana 500059, India", 
+                "CAPTION": "Old Eidgah Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/84dda044-6c96-4da1-9bcf-c21df2dbee70", 
+                "ID": "84dda044-6c96-4da1-9bcf-c21df2dbee70", 
+                "IMG": "http://openbangalore.org/postboximg/84dda044-6c96-4da1-9bcf-c21df2dbee70.jpg", 
+                "PINCODE": "500059", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.5063815, 
+                    17.34766004
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Post Office Road, Sai Ratna Arcade, New Santoshnagar, Santosh Nagar, Hyderabad, Telangana 500059, India", 
+                "CAPTION": "Post Office Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/91696df3-9709-4725-87da-dab8b11e7e36", 
+                "ID": "91696df3-9709-4725-87da-dab8b11e7e36", 
+                "IMG": "http://openbangalore.org/postboximg/91696df3-9709-4725-87da-dab8b11e7e36.jpg", 
+                "PINCODE": "500059", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.50642493, 
+                    17.34767543
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Post Office Road, Sai Ratna Arcade, New Santoshnagar, Santosh Nagar, Hyderabad, Telangana 500059, India", 
+                "CAPTION": "Post Office Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/8b158e67-f386-4e31-bd6e-3da79b60a44f", 
+                "ID": "8b158e67-f386-4e31-bd6e-3da79b60a44f", 
+                "IMG": "http://openbangalore.org/postboximg/8b158e67-f386-4e31-bd6e-3da79b60a44f.jpg", 
+                "PINCODE": "500059", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

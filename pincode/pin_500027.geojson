@@ -1,0 +1,181 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.48958555, 
+                    17.38352474
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "4-7-111, Champapet, Esamiya Bazaar, Koti, Hyderabad, Telangana 500027, India", 
+                "CAPTION": ", Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/65d9a445-c69c-4645-aa54-b774a6442e6b", 
+                "ID": "65d9a445-c69c-4645-aa54-b774a6442e6b", 
+                "IMG": "http://openbangalore.org/postboximg/65d9a445-c69c-4645-aa54-b774a6442e6b.jpg", 
+                "PINCODE": "500027", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.48960193, 
+                    17.38354431
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "4-7-101/1, Champapet, Esamiya Bazaar, Koti, Hyderabad, Telangana 500027, India", 
+                "CAPTION": ", Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/7ca5be40-41f0-47f3-8a8d-a985100ada26", 
+                "ID": "7ca5be40-41f0-47f3-8a8d-a985100ada26", 
+                "IMG": "http://openbangalore.org/postboximg/7ca5be40-41f0-47f3-8a8d-a985100ada26.jpg", 
+                "PINCODE": "500027", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.49927318, 
+                    17.38973057
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "3-2-1, Kachiguda Station Road, Mahalaxmi Nilayam, Kachiguda, Hyderabad, Telangana 500027, India", 
+                "CAPTION": "Kachiguda Station Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/15bd2f46-7059-4cca-87cf-acfe85b565a5", 
+                "ID": "15bd2f46-7059-4cca-87cf-acfe85b565a5", 
+                "IMG": "http://openbangalore.org/postboximg/15bd2f46-7059-4cca-87cf-acfe85b565a5.jpg", 
+                "PINCODE": "500027", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4992351, 
+                    17.38984014
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "3-2-1, Kachiguda Station Road, Mahalaxmi Nilayam, Kachiguda, Hyderabad, Telangana 500027, India", 
+                "CAPTION": "Kachiguda Station Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/b93241a2-0b32-4e39-8168-c02b3af24ba9", 
+                "ID": "b93241a2-0b32-4e39-8168-c02b3af24ba9", 
+                "IMG": "http://openbangalore.org/postboximg/b93241a2-0b32-4e39-8168-c02b3af24ba9.jpg", 
+                "PINCODE": "500027", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.49654666, 
+                    17.39183123
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "11, Barkatpura Road, Barkatpura, Kachiguda, Hyderabad, Telangana 500027, India", 
+                "CAPTION": "Barkatpura Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/74ce2326-5560-4544-970a-7b4ba65bd9a2", 
+                "ID": "74ce2326-5560-4544-970a-7b4ba65bd9a2", 
+                "IMG": "http://openbangalore.org/postboximg/74ce2326-5560-4544-970a-7b4ba65bd9a2.jpg", 
+                "PINCODE": "500027", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.49487769, 
+                    17.39427651
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Barkatpura Main Road, Narayanguda, Hyderabad, Telangana 500027, India", 
+                "CAPTION": "Barkatpura Main Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/f3b36e12-cc9f-4d98-9386-4170fdce3ebd", 
+                "ID": "f3b36e12-cc9f-4d98-9386-4170fdce3ebd", 
+                "IMG": "http://openbangalore.org/postboximg/f3b36e12-cc9f-4d98-9386-4170fdce3ebd.jpg", 
+                "PINCODE": "500027", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.49423736, 
+                    17.39572844
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "3-4-526/37, No 3 Lane, Chitrapuri Colony, Lingampalli, Narayanguda, Hyderabad, Telangana 500027, India", 
+                "CAPTION": "No 3 Lane", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/0b6505fc-8108-4375-9559-ddf8de7ce639", 
+                "ID": "0b6505fc-8108-4375-9559-ddf8de7ce639", 
+                "IMG": "http://openbangalore.org/postboximg/0b6505fc-8108-4375-9559-ddf8de7ce639.jpg", 
+                "PINCODE": "500027", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4943892, 
+                    17.39557633
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Lane Number 3, Chitrapuri Colony, Lingampalli, Narayanguda, Hyderabad, Telangana 500027, India", 
+                "CAPTION": "Lane Number 3", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/548f8efb-76b4-4225-8ee6-6e738a233e4f", 
+                "ID": "548f8efb-76b4-4225-8ee6-6e738a233e4f", 
+                "IMG": "http://openbangalore.org/postboximg/548f8efb-76b4-4225-8ee6-6e738a233e4f.jpg", 
+                "PINCODE": "500027", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

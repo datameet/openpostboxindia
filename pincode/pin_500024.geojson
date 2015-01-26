@@ -1,0 +1,115 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.49330737, 
+                    17.37720751
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Chaderghat Bus Stop, Malakpet Station Road, Chaderghat, Malakpet, Hyderabad, Telangana 500024, India", 
+                "CAPTION": "Malakpet Station Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/cf0ae0d7-01a4-48c2-883f-84183e5d0daf", 
+                "ID": "cf0ae0d7-01a4-48c2-883f-84183e5d0daf", 
+                "IMG": "http://openbangalore.org/postboximg/cf0ae0d7-01a4-48c2-883f-84183e5d0daf.jpg", 
+                "PINCODE": "500024", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.49338715, 
+                    17.37719868
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Hyderabad-Vijayawada Highway, Chaderghat, Malakpet, Hyderabad, Telangana 500024, India", 
+                "CAPTION": "Hyderabad-Vijayawada Highway, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/8a7198b8-3413-4641-b6f7-525cf6cba809", 
+                "ID": "8a7198b8-3413-4641-b6f7-525cf6cba809", 
+                "IMG": "http://openbangalore.org/postboximg/8a7198b8-3413-4641-b6f7-525cf6cba809.jpg", 
+                "PINCODE": "500024", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.48226378, 
+                    17.37141466
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "22-2-691, Darul Shifa Road, Malakpet, Hyderabad, Telangana 500024, India", 
+                "CAPTION": "Darul Shifa Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/2470ccf1-67df-49c9-bb9e-d6be10e9b5a5", 
+                "ID": "2470ccf1-67df-49c9-bb9e-d6be10e9b5a5", 
+                "IMG": "http://openbangalore.org/postboximg/2470ccf1-67df-49c9-bb9e-d6be10e9b5a5.jpg", 
+                "PINCODE": "500024", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.48225636, 
+                    17.37138462
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "22-2-680, Darul Shifa Road, Panjetan Colony, Malakpet, Hyderabad, Telangana 500024, India", 
+                "CAPTION": "Darul Shifa Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/9881c8d9-4609-4877-b68c-ce53ec65e17a", 
+                "ID": "9881c8d9-4609-4877-b68c-ce53ec65e17a", 
+                "IMG": "http://openbangalore.org/postboximg/9881c8d9-4609-4877-b68c-ce53ec65e17a.jpg", 
+                "PINCODE": "500024", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.48629797, 
+                    17.37671449
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "22-1-484/2, Chaderghat Road, Fedak Inclave, Imlibun, Malakpet, Hyderabad, Telangana 500024, India", 
+                "CAPTION": "Chaderghat Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/49ccdea0-b0d5-435c-8075-c6ff79a1649f", 
+                "ID": "49ccdea0-b0d5-435c-8075-c6ff79a1649f", 
+                "IMG": "http://openbangalore.org/postboximg/49ccdea0-b0d5-435c-8075-c6ff79a1649f.jpg", 
+                "PINCODE": "500024", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

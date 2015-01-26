@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.39118211, 
+                    17.44175953
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "294, Ayyappa Society Main Road, Mega Hills, Madhapur, Hyderabad, Telangana 500081, India", 
+                "CAPTION": "Ayyappa Society Main Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/67a362b5-bcbe-4992-a145-0c38e025f334", 
+                "ID": "67a362b5-bcbe-4992-a145-0c38e025f334", 
+                "IMG": "http://openbangalore.org/postboximg/67a362b5-bcbe-4992-a145-0c38e025f334.jpg", 
+                "PINCODE": "500081", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.3911649, 
+                    17.44172191
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "294, Ayyappa Society Main Road, Mega Hills, Madhapur, Hyderabad, Telangana 500081, India", 
+                "CAPTION": "Ayyappa Society Main Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/891f49b2-0ab2-4112-b12b-ef86caac7380", 
+                "ID": "891f49b2-0ab2-4112-b12b-ef86caac7380", 
+                "IMG": "http://openbangalore.org/postboximg/891f49b2-0ab2-4112-b12b-ef86caac7380.jpg", 
+                "PINCODE": "500081", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

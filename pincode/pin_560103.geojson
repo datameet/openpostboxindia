@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.6755526, 
+                    12.92996977
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "78/5, Bellandur Main Road, Bellandur, Bengaluru, Karnataka 560103, India", 
+                "CAPTION": "Bellandur Main Road, Bengaluru", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/ee1d5f0a-60d5-4d5d-a822-2c7df3462e24", 
+                "ID": "ee1d5f0a-60d5-4d5d-a822-2c7df3462e24", 
+                "IMG": "http://openbangalore.org/postboximg/ee1d5f0a-60d5-4d5d-a822-2c7df3462e24.jpg", 
+                "PINCODE": "560103", 
+                "STATE": "Karnataka", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.67552872, 
+                    12.9299738
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "78/5, Bellandur Main Road, Bellandur, Bengaluru, Karnataka 560103, India", 
+                "CAPTION": "Bellandur Main Road, Bengaluru", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/8d1fd7c2-67d5-4f71-ba61-1760a941b8cc", 
+                "ID": "8d1fd7c2-67d5-4f71-ba61-1760a941b8cc", 
+                "IMG": "http://openbangalore.org/postboximg/8d1fd7c2-67d5-4f71-ba61-1760a941b8cc.jpg", 
+                "PINCODE": "560103", 
+                "STATE": "Karnataka", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

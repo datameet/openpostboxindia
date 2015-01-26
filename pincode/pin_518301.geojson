@@ -1,0 +1,115 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.27234074, 
+                    15.62220421
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "18/298, PN Road, Old Town, Adoni, Andhra Pradesh 518301, India", 
+                "CAPTION": "PN Road, Adoni", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Kurnool", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/f13c6f87-22eb-4d3a-957a-59c5de8d72ee", 
+                "ID": "f13c6f87-22eb-4d3a-957a-59c5de8d72ee", 
+                "IMG": "http://openbangalore.org/postboximg/f13c6f87-22eb-4d3a-957a-59c5de8d72ee.jpg", 
+                "PINCODE": "518301", 
+                "STATE": "Andhra Pradesh", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.27099391, 
+                    15.62166926
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Railway Station Road, HBG Nagar, Adoni, Andhra Pradesh 518301, India", 
+                "CAPTION": "Railway Station Road, Adoni", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Kurnool", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/7b966830-7372-4c17-a0d0-75d246d1a6d2", 
+                "ID": "7b966830-7372-4c17-a0d0-75d246d1a6d2", 
+                "IMG": "http://openbangalore.org/postboximg/7b966830-7372-4c17-a0d0-75d246d1a6d2.jpg", 
+                "PINCODE": "518301", 
+                "STATE": "Andhra Pradesh", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.27098721, 
+                    15.62167442
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Railway Station Road, HBG Nagar, Adoni, Andhra Pradesh 518301, India", 
+                "CAPTION": "Railway Station Road, Adoni", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Kurnool", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/12b25112-0715-4fd7-936d-485dc73787b7", 
+                "ID": "12b25112-0715-4fd7-936d-485dc73787b7", 
+                "IMG": "http://openbangalore.org/postboximg/12b25112-0715-4fd7-936d-485dc73787b7.jpg", 
+                "PINCODE": "518301", 
+                "STATE": "Andhra Pradesh", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.27792785, 
+                    15.62340543
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "BN Talkies Road, Havanapet, Shakthi Gudi, Adoni, Andhra Pradesh 518301, India", 
+                "CAPTION": "BN Talkies Road, Adoni", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Kurnool", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/beec929d-5f6e-4ce6-8787-d5a7f88fe596", 
+                "ID": "beec929d-5f6e-4ce6-8787-d5a7f88fe596", 
+                "IMG": "http://openbangalore.org/postboximg/beec929d-5f6e-4ce6-8787-d5a7f88fe596.jpg", 
+                "PINCODE": "518301", 
+                "STATE": "Andhra Pradesh", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.27437189, 
+                    15.62198482
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "MM Road Bus Stop, Havanapet, Shakthi Gudi, Adoni, Andhra Pradesh 518301, India", 
+                "CAPTION": ", Adoni", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Kurnool", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/b9f700a9-28da-47f4-8fce-ac1ae16fe41e", 
+                "ID": "b9f700a9-28da-47f4-8fce-ac1ae16fe41e", 
+                "IMG": "http://openbangalore.org/postboximg/b9f700a9-28da-47f4-8fce-ac1ae16fe41e.jpg", 
+                "PINCODE": "518301", 
+                "STATE": "Andhra Pradesh", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

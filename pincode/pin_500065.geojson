@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.47249705, 
+                    17.3501471
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "23-5-451-2-1, Falaknuma Road, Zohra Colony, Shalibanda, Hyderabad, Telangana 500065, India", 
+                "CAPTION": "Falaknuma Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/5d3e65f2-9a68-425c-a6c2-978cf4decee5", 
+                "ID": "5d3e65f2-9a68-425c-a6c2-978cf4decee5", 
+                "IMG": "http://openbangalore.org/postboximg/5d3e65f2-9a68-425c-a6c2-978cf4decee5.jpg", 
+                "PINCODE": "500065", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.47232906, 
+                    17.35008975
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Falaknuma Road, Aliabad North, Lal Darwaza, Hyderabad, Telangana 500065, India", 
+                "CAPTION": "Falaknuma Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/46b9e50d-f8ff-4092-a63e-98e2effef081", 
+                "ID": "46b9e50d-f8ff-4092-a63e-98e2effef081", 
+                "IMG": "http://openbangalore.org/postboximg/46b9e50d-f8ff-4092-a63e-98e2effef081.jpg", 
+                "PINCODE": "500065", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

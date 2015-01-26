@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.32562566, 
+                    17.45535947
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Hyderabad Central University, Unnamed Road, CUC, Gachibowli, Hyderabad, Telangana 500046, India", 
+                "CAPTION": "Unnamed Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/431552c5-c2ea-4114-8ff2-f32879b3f309", 
+                "ID": "431552c5-c2ea-4114-8ff2-f32879b3f309", 
+                "IMG": "http://openbangalore.org/postboximg/431552c5-c2ea-4114-8ff2-f32879b3f309.jpg", 
+                "PINCODE": "500046", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.32581385, 
+                    17.45532715
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Hyderabad Central University, Unnamed Road, CUC, Gachibowli, Hyderabad, Telangana 500046, India", 
+                "CAPTION": "Unnamed Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/19a751f5-9a4d-4d7d-8e4e-466b795e0fc6", 
+                "ID": "19a751f5-9a4d-4d7d-8e4e-466b795e0fc6", 
+                "IMG": "http://openbangalore.org/postboximg/19a751f5-9a4d-4d7d-8e4e-466b795e0fc6.jpg", 
+                "PINCODE": "500046", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

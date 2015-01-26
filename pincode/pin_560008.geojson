@@ -3,28 +3,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    77.646718, 
-                    12.960004
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "ADDRESS": "", 
-                "CAPTION": "#openpostboxindia kodihalli bus stop, hal road", 
-                "CONTRIBUTOR": "instagram-anjananju", 
-                "DISTRICT": "", 
-                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/640509552703669911_582942400", 
-                "ID": "640509552703669911_582942400", 
-                "IMG": "http://distilleryimage0.s3.amazonaws.com/fb2da918850511e38ec0121894149508_8.jpg", 
-                "PINCODE": "560008", 
-                "STATE": "", 
-                "TAGS": "openpostboxindia"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     77.620086667, 
                     12.974320389
                 ], 

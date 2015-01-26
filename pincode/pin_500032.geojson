@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.35856917, 
+                    17.43914188
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "GPRA Campus Road, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032, India", 
+                "CAPTION": "GPRA Campus Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/58ad281f-d491-4639-bf5f-e40726044511", 
+                "ID": "58ad281f-d491-4639-bf5f-e40726044511", 
+                "IMG": "http://openbangalore.org/postboximg/58ad281f-d491-4639-bf5f-e40726044511.jpg", 
+                "PINCODE": "500032", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.35857079, 
+                    17.43909867
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "GPRA Campus Road, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032, India", 
+                "CAPTION": "GPRA Campus Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/cb97e49f-3741-478f-9838-02f98170b448", 
+                "ID": "cb97e49f-3741-478f-9838-02f98170b448", 
+                "IMG": "http://openbangalore.org/postboximg/cb97e49f-3741-478f-9838-02f98170b448.jpg", 
+                "PINCODE": "500032", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -75,15 +75,15 @@
                 "type": "Point"
             }, 
             "properties": {
-                "ADDRESS": "", 
+                "ADDRESS": "46, Richmond Road, Ashok Nagar, Bengaluru, Karnataka 560025, India", 
                 "CAPTION": "Near Hosmat hospital", 
                 "CONTRIBUTOR": "instagram-thejeshgn", 
-                "DISTRICT": "", 
+                "DISTRICT": "Bangalore Urban", 
                 "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/569559332685952204_31979172", 
                 "ID": "569559332685952204_31979172", 
                 "IMG": "http://distilleryimage4.s3.amazonaws.com/7ba8db06381911e3bc7922000ae90d97_8.jpg", 
                 "PINCODE": "560025", 
-                "STATE": "", 
+                "STATE": "Karnataka", 
                 "TAGS": "pin560025, openpostboxindia"
             }, 
             "type": "Feature"

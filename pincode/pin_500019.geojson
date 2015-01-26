@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.31980285, 
+                    17.47818883
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "H.no:7-14/1, Old Mumbai Highway, Bapu Nagar, Serilingampally, Hyderabad, Telangana 500019, India", 
+                "CAPTION": "Old Mumbai Highway", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/0fdacc91-98e5-4e2b-bed2-f67d4fc89107", 
+                "ID": "0fdacc91-98e5-4e2b-bed2-f67d4fc89107", 
+                "IMG": "http://openbangalore.org/postboximg/0fdacc91-98e5-4e2b-bed2-f67d4fc89107.jpg", 
+                "PINCODE": "500019", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.31997592, 
+                    17.47818345
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Old Mumbai Highway, Bapu Nagar, Serilingampally, Hyderabad, Telangana 500019, India", 
+                "CAPTION": "Old Mumbai Highway", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/8dd14d4b-0971-4c65-be2e-caff2d6e54d2", 
+                "ID": "8dd14d4b-0971-4c65-be2e-caff2d6e54d2", 
+                "IMG": "http://openbangalore.org/postboximg/8dd14d4b-0971-4c65-be2e-caff2d6e54d2.jpg", 
+                "PINCODE": "500019", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

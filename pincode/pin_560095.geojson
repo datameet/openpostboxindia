@@ -25,21 +25,21 @@
         {
             "geometry": {
                 "coordinates": [
-                    77.618983, 
-                    12.938417
+                    77.6189803, 
+                    12.9384169
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "ADDRESS": "", 
+                "ADDRESS": "39, Ganapathi Temple Road, Koramangala 8th Block, Adugodi, Bengaluru, Karnataka 560030, India", 
                 "CAPTION": "Koramangala 6th block. #openpostboxindia #pin560095", 
                 "CONTRIBUTOR": "instagram-thejeshgn", 
-                "DISTRICT": "", 
+                "DISTRICT": "Bengaluru", 
                 "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/680973266029982849_31979172", 
                 "ID": "680973266029982849_31979172", 
                 "IMG": "http://distilleryimage11.s3.amazonaws.com/fc9bd0dab0e411e3916412b00e4954bf_8.jpg", 
                 "PINCODE": "560095", 
-                "STATE": "", 
+                "STATE": "Karnataka", 
                 "TAGS": "openpostboxindia, pin560095"
             }, 
             "type": "Feature"

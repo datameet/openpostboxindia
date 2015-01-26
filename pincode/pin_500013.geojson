@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.5364942, 
+                    17.39930902
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "3-8-/24/8-/24/12, National Highway 202, Rahat Nagar, Amberpet, Hyderabad, Telangana 500013, India", 
+                "CAPTION": "National Highway 202, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/708086b3-baef-432b-9dec-8a03ac853ce3", 
+                "ID": "708086b3-baef-432b-9dec-8a03ac853ce3", 
+                "IMG": "http://openbangalore.org/postboximg/708086b3-baef-432b-9dec-8a03ac853ce3.jpg", 
+                "PINCODE": "500013", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.53032031, 
+                    17.3967232
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Hanamkonda - Hyderabad Road, Ganesh Nagar, Ramanthapur, Hyderabad, Telangana 500013, India", 
+                "CAPTION": "Hanamkonda - Hyderabad Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/b6947469-cd9e-46a1-ab71-21f1df2dc51c", 
+                "ID": "b6947469-cd9e-46a1-ab71-21f1df2dc51c", 
+                "IMG": "http://openbangalore.org/postboximg/b6947469-cd9e-46a1-ab71-21f1df2dc51c.jpg", 
+                "PINCODE": "500013", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.51642866, 
+                    17.39110317
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "2-3-47, Moosarambagh Road, Quadri Bagh, Amberpet, Hyderabad, Telangana 500013, India", 
+                "CAPTION": "Moosarambagh Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/94bb773e-67ff-4795-837c-4311b0395d1f", 
+                "ID": "94bb773e-67ff-4795-837c-4311b0395d1f", 
+                "IMG": "http://openbangalore.org/postboximg/94bb773e-67ff-4795-837c-4311b0395d1f.jpg", 
+                "PINCODE": "500013", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.51642879, 
+                    17.39110977
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "2-3-47, Moosarambagh Road, Quadri Bagh, Amberpet, Hyderabad, Telangana 500013, India", 
+                "CAPTION": "Moosarambagh Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/651ffd64-f3e4-44ee-bdc7-6c3a207dd195", 
+                "ID": "651ffd64-f3e4-44ee-bdc7-6c3a207dd195", 
+                "IMG": "http://openbangalore.org/postboximg/651ffd64-f3e4-44ee-bdc7-6c3a207dd195.jpg", 
+                "PINCODE": "500013", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

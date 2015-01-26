@@ -1,0 +1,93 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.47638163, 
+                    17.38826708
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "4-1-527, Jawaharlal Nehru Road, Troop Bazaar, Koti, Hyderabad, Telangana 500001, India", 
+                "CAPTION": "Jawaharlal Nehru Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/540cba09-245b-4ff1-b16b-fcc107fd8f53", 
+                "ID": "540cba09-245b-4ff1-b16b-fcc107fd8f53", 
+                "IMG": "http://openbangalore.org/postboximg/540cba09-245b-4ff1-b16b-fcc107fd8f53.jpg", 
+                "PINCODE": "500001", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4764934, 
+                    17.38846565
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "4-1-527, Jawaharlal Nehru Road, Troop Bazaar, Koti, Hyderabad, Telangana 500001, India", 
+                "CAPTION": "Jawaharlal Nehru Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/caec0236-8f63-4397-a041-cb3bd3eb03b1", 
+                "ID": "caec0236-8f63-4397-a041-cb3bd3eb03b1", 
+                "IMG": "http://openbangalore.org/postboximg/caec0236-8f63-4397-a041-cb3bd3eb03b1.jpg", 
+                "PINCODE": "500001", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.47290459, 
+                    17.38933293
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "5-8-2, Nampally Station Road, Karimabad Cooperative Society, Abids, Hyderabad, Telangana 500001, India", 
+                "CAPTION": "Nampally Station Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/169560f0-5b50-4129-ba7e-aa998eac8f26", 
+                "ID": "169560f0-5b50-4129-ba7e-aa998eac8f26", 
+                "IMG": "http://openbangalore.org/postboximg/169560f0-5b50-4129-ba7e-aa998eac8f26.jpg", 
+                "PINCODE": "500001", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.4735058, 
+                    17.3874825
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "5-5-349, Abids South 2 Street, Kattel Mandi, Abids, Hyderabad, Telangana 500001, India", 
+                "CAPTION": "Abids South 2 Street, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/940caf0a-8bc4-474e-9e40-4dbe2e6cc379", 
+                "ID": "940caf0a-8bc4-474e-9e40-4dbe2e6cc379", 
+                "IMG": "http://openbangalore.org/postboximg/940caf0a-8bc4-474e-9e40-4dbe2e6cc379.jpg", 
+                "PINCODE": "500001", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

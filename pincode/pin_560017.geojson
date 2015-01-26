@@ -1,0 +1,71 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    77.66805228, 
+                    12.95845112
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Doctor Babasaheb Ambedkar Road, Reddypalya, Jyothi Nagar, Bengaluru, Karnataka 560017, India", 
+                "CAPTION": "Doctor Babasaheb Ambedkar Road, Bengaluru", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/36f3ae13-7dd7-469a-9a4f-46f09ba25933", 
+                "ID": "36f3ae13-7dd7-469a-9a4f-46f09ba25933", 
+                "IMG": "http://openbangalore.org/postboximg/36f3ae13-7dd7-469a-9a4f-46f09ba25933.jpg", 
+                "PINCODE": "560017", 
+                "STATE": "Karnataka", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.66788835, 
+                    12.95832246
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Doctor Babasaheb Ambedkar Road, Reddypalya, Jyothi Nagar, Bengaluru, Karnataka 560017, India", 
+                "CAPTION": "Doctor Babasaheb Ambedkar Road, Bengaluru", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/cde7010d-4fb9-4757-8eed-d2aec218de38", 
+                "ID": "cde7010d-4fb9-4757-8eed-d2aec218de38", 
+                "IMG": "http://openbangalore.org/postboximg/cde7010d-4fb9-4757-8eed-d2aec218de38.jpg", 
+                "PINCODE": "560017", 
+                "STATE": "Karnataka", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    77.66795473, 
+                    12.95847399
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Doctor Babasaheb Ambedkar Road, Reddypalya, Jyothi Nagar, Bengaluru, Karnataka 560017, India", 
+                "CAPTION": "Doctor Babasaheb Ambedkar Road, Bengaluru", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Bangalore Urban", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/6a2dd7e7-0c9c-41b4-99e6-3b976b37cdf9", 
+                "ID": "6a2dd7e7-0c9c-41b4-99e6-3b976b37cdf9", 
+                "IMG": "http://openbangalore.org/postboximg/6a2dd7e7-0c9c-41b4-99e6-3b976b37cdf9.jpg", 
+                "PINCODE": "560017", 
+                "STATE": "Karnataka", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,137 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.47192019, 
+                    17.44827541
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Begumpet Airport Road, Motilal Nehru Nagar, Begumpet, Hyderabad, Telangana 500016, India", 
+                "CAPTION": "Begumpet Airport Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/6fa2af7e-638e-481c-9545-c38cdf46c493", 
+                "ID": "6fa2af7e-638e-481c-9545-c38cdf46c493", 
+                "IMG": "http://openbangalore.org/postboximg/6fa2af7e-638e-481c-9545-c38cdf46c493.jpg", 
+                "PINCODE": "500016", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.47188935, 
+                    17.44826182
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Begumpet Airport Road, Motilal Nehru Nagar, Begumpet, Hyderabad, Telangana 500016, India", 
+                "CAPTION": "Begumpet Airport Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/7d26d167-84a4-475d-a329-99bdb18e658b", 
+                "ID": "7d26d167-84a4-475d-a329-99bdb18e658b", 
+                "IMG": "http://openbangalore.org/postboximg/7d26d167-84a4-475d-a329-99bdb18e658b.jpg", 
+                "PINCODE": "500016", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.46908659, 
+                    17.44148852
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "1-8-506/1/G, Prakash Nagar, Prakash Nagar, Begumpet, Hyderabad, Telangana 500016, India", 
+                "CAPTION": "Prakash Nagar", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/eb5431b6-cfdd-4e8b-abb0-d81d80d79857", 
+                "ID": "eb5431b6-cfdd-4e8b-abb0-d81d80d79857", 
+                "IMG": "http://openbangalore.org/postboximg/eb5431b6-cfdd-4e8b-abb0-d81d80d79857.jpg", 
+                "PINCODE": "500016", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.46912045, 
+                    17.44146826
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "1-8-506/1/G, Prakash Nagar, Prakash Nagar, Begumpet, Hyderabad, Telangana 500016, India", 
+                "CAPTION": "Prakash Nagar", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/a4d065d5-4a4f-485b-9895-666714e8d4ed", 
+                "ID": "a4d065d5-4a4f-485b-9895-666714e8d4ed", 
+                "IMG": "http://openbangalore.org/postboximg/a4d065d5-4a4f-485b-9895-666714e8d4ed.jpg", 
+                "PINCODE": "500016", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.45773593, 
+                    17.43943056
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Brahmanvadi Street Number 1, Brahman Wadi, Begumpet, Hyderabad, Telangana 500016, India", 
+                "CAPTION": "Brahmanvadi Street Number 1", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/964e394f-5ff7-46fa-abe4-768d366087de", 
+                "ID": "964e394f-5ff7-46fa-abe4-768d366087de", 
+                "IMG": "http://openbangalore.org/postboximg/964e394f-5ff7-46fa-abe4-768d366087de.jpg", 
+                "PINCODE": "500016", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.45767099, 
+                    17.43953508
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Begumpet-Brahmanvadi Road, Brahman Wadi, Begumpet, Hyderabad, Telangana 500016, India", 
+                "CAPTION": "Begumpet-Brahmanvadi Road", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Ranga Reddy", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/b772e066-272c-4229-9171-70a2a6cf7189", 
+                "ID": "b772e066-272c-4229-9171-70a2a6cf7189", 
+                "IMG": "http://openbangalore.org/postboximg/b772e066-272c-4229-9171-70a2a6cf7189.jpg", 
+                "PINCODE": "500016", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

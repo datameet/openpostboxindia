@@ -17,6 +17,10 @@ for row in results:
 	cursor2 = conn.cursor()
 	post_boxes = cursor2.execute("""select * from post_box where pincode='"""+code+"""' order by created_time """)
 	for box in post_boxes:
+		if( box[4] != "" ):
+			pass
+		else:
+			continue
 		data = {}
 		data["ID"]=box[0]
 		print data['ID']

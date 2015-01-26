@@ -1,0 +1,49 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    78.48637521, 
+                    17.36238256
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Shah Faiz Kaman Road, Pathar Kaman Colony, Dabeerpura South, Dabeerpura, Hyderabad, Telangana 500023, India", 
+                "CAPTION": "Shah Faiz Kaman Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/786180ba-7a4d-441f-9f5a-3be25e36d302", 
+                "ID": "786180ba-7a4d-441f-9f5a-3be25e36d302", 
+                "IMG": "http://openbangalore.org/postboximg/786180ba-7a4d-441f-9f5a-3be25e36d302.jpg", 
+                "PINCODE": "500023", 
+                "STATE": "Telangana", 
+                "TAGS": "PostBox"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    78.48641992, 
+                    17.36238091
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "ADDRESS": "Shah Faiz Kaman Road, Pathar Kaman Colony, Dabeerpura South, Dabeerpura, Hyderabad, Telangana 500023, India", 
+                "CAPTION": "Shah Faiz Kaman Road, Hyderabad", 
+                "CONTRIBUTOR": "odk-pradeep", 
+                "DISTRICT": "Hyderabad", 
+                "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/6397f73d-4578-4031-8786-39cc38092413", 
+                "ID": "6397f73d-4578-4031-8786-39cc38092413", 
+                "IMG": "http://openbangalore.org/postboximg/6397f73d-4578-4031-8786-39cc38092413.jpg", 
+                "PINCODE": "500023", 
+                "STATE": "Telangana", 
+                "TAGS": "PostOffice"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}

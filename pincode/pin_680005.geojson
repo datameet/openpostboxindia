@@ -31,15 +31,15 @@
                 "type": "Point"
             }, 
             "properties": {
-                "ADDRESS": "", 
+                "ADDRESS": "east fort junction, RC Bishop House Road, Keerankulangara, Thrissur, Kerala 680005, India", 
                 "CAPTION": "Bishop palace , #openpostboxindia #pin680005", 
                 "CONTRIBUTOR": "instagram-anjananju", 
-                "DISTRICT": "", 
+                "DISTRICT": "Thrissur", 
                 "HOMEPAGE": "http://openbangalore.org/postbox/pb/id/580831080029193616_582942400", 
                 "ID": "580831080029193616_582942400", 
                 "IMG": "http://distilleryimage4.s3.amazonaws.com/0578d202445211e3ab6822000a1fbc38_8.jpg", 
                 "PINCODE": "680005", 
-                "STATE": "", 
+                "STATE": "Kerala", 
                 "TAGS": "openpostboxindia, pin680005"
             }, 
             "type": "Feature"
